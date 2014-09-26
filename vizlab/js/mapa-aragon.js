@@ -5,9 +5,12 @@
     var svg = d3.select("#mapa").append("svg").attr({width: w, height: h});
 
     d3.json("json/aragon.topojson", function (error, json) {
-	if (error) return console.log('Error cargando comarcas', error);
+	if (error) return console.log('Error cargando TopoJSON', error);
 
-	// Cargamos el mapa TopoJSON
+	// Cargamos las partes del mapa TopoJSON
+	var aragon = topojson.feature(json, json.objects.aragon);
+	var provincias = topojson.feature(json, json.objects.provincias);
+	var comarcas = topojson.feature(json, json.objects.comarcas);
 	var municipios = topojson.feature(json, json.objects.municipios);
 
 	// Creamos una primera proyección centrada
@@ -37,16 +40,28 @@
 	    .translate(offset);
 	path = d3.geo.path().projection(projection);
 
-	svg.append("path").datum(municipios).attr("d", path);
-	var gProv = svg.append("g").attr("class", "municipios");
-	gProv
-	    .selectAll("path")
-	    .data(municipios.features)
-	    .enter()
-	    .append("path")
-	    .attr("d", path)
-	    .on("click", function(d) { console.log(d); })
-	;
+	var capas = [
+	    ["municipios", municipios],
+	    ["comarcas", comarcas],
+	    ["provincias", provincias],
+	    ["aragon", aragon],
+	];
+
+	// Dibujamos las capas
+	for (var i = 0; i < capas.length; i++) {
+	    var clase = capas[i][0];
+	    var datos = capas[i][1];
+
+	    // Dibujamos las provincias
+	    var g = svg.append("g").attr("class", clase);
+	    console.log(datos);
+	    g.selectAll("path")
+		.data(datos.features)
+		.enter()
+		.append("path")
+		.attr("d", path);
+	}
+
     });
 
 })();

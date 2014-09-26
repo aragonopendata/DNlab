@@ -1,24 +1,25 @@
-#mapa svg {
-    border: 1px solid red;
+.aragon {
+    stroke-width: 2;
+    stroke: #000000;
+    fill: none;
+}
+
+.provincias path {
+    stroke-width: 3;
+    stroke: orange;
+    fill: none;
+}
+
+.comarcas path {
+    stroke-width: 2;
+    stroke: blue;
+    fill: none;
 }
 
 .municipios path {
     fill: red;
-    border: 2px solid black;
+    stroke-width: 1;
+    stroke: green;
 }
 
 .municipios path:hover { fill: blue; }
-
-.provincias path {
-    fill: blue;
-    border: 2px solid black;
-}
-
-.provincias path:hover { fill: green; }
-
-.comarcas path {
-    fill: purple;
-    border: 2px solid black;
-}
-
-.comarcas path:hover { fill: pink; }
