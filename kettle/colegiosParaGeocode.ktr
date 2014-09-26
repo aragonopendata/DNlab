@@ -232,36 +232,6 @@
     </step>
 
   <step>
-    <name>Obtener direcci&#xf3;n</name>
-    <type>ScriptValueMod</type>
-    <description/>
-    <distribute>Y</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-         <partitioning>
-           <method>none</method>
-           <schema_name/>
-           </partitioning>
-    <compatible>N</compatible>
-    <optimizationLevel>9</optimizationLevel>
-    <jsScripts>      <jsScript>        <jsScript_type>0</jsScript_type>
-        <jsScript_name>Script 1</jsScript_name>
-        <jsScript_script>&#x2f;&#x2f;Script here&#xa;&#xa;var url &#x3d; &#x27;http&#x3a;&#x2f;&#x2f;www.mapquestapi.com&#x2f;geocoding&#x2f;v1&#x2f;address&#x3f;key&#x3d;&#x27;&#xa; &#x2b; apikey&#xa; &#x2b; &#x27;&#x26;state&#x3d;&#x27; &#x2b; encodeURIComponent&#x28;PROVINCIA&#x29;&#xa; &#x2b; &#x27;&#x26;city&#x3d;&#x27; &#x2b; encodeURIComponent&#x28;LOCALIDAD&#x29;&#xa; &#x2b; &#x27;&#x26;street&#x3d;&#x27; &#x2b; encodeURIComponent&#x28;DOMICILIO&#x29;&#xa; &#x2b; &#x27;&#x26;postalCode&#x3d;&#x27; &#x2b; encodeURIComponent&#x28;CODPOSTAL&#x29;&#xa; &#x2b; &#x27;&#x26;country&#x3d;Spain&#x26;callback&#x3d;renderGeocode&#x26;outFormat&#x3d;xml&#x27;&#x3b;</jsScript_script>
-      </jsScript>    </jsScripts>    <fields>      <field>        <name>url</name>
-        <rename>url</rename>
-        <type>String</type>
-        <length>-1</length>
-        <precision>-1</precision>
-        <replace>N</replace>
-      </field>    </fields>     <cluster_schema/>
- <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>471</xloc>
-      <yloc>123</yloc>
-      <draw>Y</draw>
-      </GUI>
-    </step>
-
-  <step>
     <name>Get API key</name>
     <type>GetVariable</type>
     <description/>
@@ -289,43 +259,6 @@
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
       <xloc>295</xloc>
-      <yloc>123</yloc>
-      <draw>Y</draw>
-      </GUI>
-    </step>
-
-  <step>
-    <name>HTTP Client</name>
-    <type>HTTP</type>
-    <description/>
-    <distribute>N</distribute>
-    <custom_distribution/>
-    <copies>1</copies>
-         <partitioning>
-           <method>none</method>
-           <schema_name/>
-           </partitioning>
-    <url/>
-    <urlInField>Y</urlInField>
-    <urlField>url</urlField>
-    <encoding>UTF-8</encoding>
-    <httpLogin/>
-    <httpPassword>Encrypted </httpPassword>
-    <proxyHost/>
-    <proxyPort/>
-    <socketTimeout>10000</socketTimeout>
-    <connectionTimeout>10000</connectionTimeout>
-    <closeIdleConnectionsTime>-1</closeIdleConnectionsTime>
-    <lookup>
-    </lookup>
-    <result>
-      <name>result</name>
-      <code>status</code>
-      <response_time>resptime</response_time>
-    </result>
-     <cluster_schema/>
- <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
-      <xloc>647</xloc>
       <yloc>123</yloc>
       <draw>Y</draw>
       </GUI>
@@ -627,6 +560,43 @@
     </step>
 
   <step>
+    <name>HTTP Client</name>
+    <type>HTTP</type>
+    <description/>
+    <distribute>N</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+    <url/>
+    <urlInField>Y</urlInField>
+    <urlField>url</urlField>
+    <encoding>UTF-8</encoding>
+    <httpLogin/>
+    <httpPassword>Encrypted </httpPassword>
+    <proxyHost/>
+    <proxyPort/>
+    <socketTimeout>10000</socketTimeout>
+    <connectionTimeout>10000</connectionTimeout>
+    <closeIdleConnectionsTime>-1</closeIdleConnectionsTime>
+    <lookup>
+    </lookup>
+    <result>
+      <name>result</name>
+      <code>status</code>
+      <response_time>resptime</response_time>
+    </result>
+     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>647</xloc>
+      <yloc>123</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
     <name>Microsoft Excel Output</name>
     <type>ExcelOutput</type>
     <description/>
@@ -688,6 +658,36 @@
      <cluster_schema/>
  <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
       <xloc>1175</xloc>
+      <yloc>123</yloc>
+      <draw>Y</draw>
+      </GUI>
+    </step>
+
+  <step>
+    <name>Obtener direcci&#xf3;n</name>
+    <type>ScriptValueMod</type>
+    <description/>
+    <distribute>Y</distribute>
+    <custom_distribution/>
+    <copies>1</copies>
+         <partitioning>
+           <method>none</method>
+           <schema_name/>
+           </partitioning>
+    <compatible>N</compatible>
+    <optimizationLevel>9</optimizationLevel>
+    <jsScripts>      <jsScript>        <jsScript_type>0</jsScript_type>
+        <jsScript_name>Script 1</jsScript_name>
+        <jsScript_script>&#x2f;&#x2f;Script here&#xa;&#xa;var url &#x3d; &#x27;http&#x3a;&#x2f;&#x2f;www.mapquestapi.com&#x2f;geocoding&#x2f;v1&#x2f;address&#x3f;key&#x3d;&#x27;&#xa; &#x2b; apikey&#xa; &#x2b; &#x27;&#x26;state&#x3d;&#x27; &#x2b; encodeURIComponent&#x28;PROVINCIA&#x29;&#xa; &#x2b; &#x27;&#x26;city&#x3d;&#x27; &#x2b; encodeURIComponent&#x28;LOCALIDAD&#x29;&#xa; &#x2b; &#x27;&#x26;street&#x3d;&#x27; &#x2b; encodeURIComponent&#x28;DOMICILIO&#x29;&#xa; &#x2b; &#x27;&#x26;postalCode&#x3d;&#x27; &#x2b; encodeURIComponent&#x28;CODPOSTAL&#x29;&#xa; &#x2b; &#x27;&#x26;country&#x3d;Spain&#x26;callback&#x3d;renderGeocode&#x26;maxResults&#x3d;1&#x26;outFormat&#x3d;xml&#x27;&#x3b;</jsScript_script>
+      </jsScript>    </jsScripts>    <fields>      <field>        <name>url</name>
+        <rename>url</rename>
+        <type>String</type>
+        <length>-1</length>
+        <precision>-1</precision>
+        <replace>N</replace>
+      </field>    </fields>     <cluster_schema/>
+ <remotesteps>   <input>   </input>   <output>   </output> </remotesteps>    <GUI>
+      <xloc>471</xloc>
       <yloc>123</yloc>
       <draw>Y</draw>
       </GUI>
