@@ -37,9 +37,16 @@
 	    .translate(offset);
 	path = d3.geo.path().projection(projection);
 
-	svg.append("path")
-	    .datum(municipios)
-	    .attr("d", path);
+	svg.append("path").datum(municipios).attr("d", path);
+	var gProv = svg.append("g").attr("class", "municipios");
+	gProv
+	    .selectAll("path")
+	    .data(municipios.features)
+	    .enter()
+	    .append("path")
+	    .attr("d", path)
+	    .on("click", function(d) { console.log(d); })
+	;
     });
 
 })();

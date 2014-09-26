@@ -1,3 +1,10 @@
 #mapa svg {
     border: 1px solid red;
 }
+
+.municipios path {
+    fill: red;
+    border: 2px solid black;
+}
+
+.municipios path:hover { fill: blue; }
