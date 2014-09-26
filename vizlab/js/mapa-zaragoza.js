@@ -12,6 +12,7 @@
 	var provincias = topojson.feature(json, json.objects.provincias);
 	var comarcas = topojson.feature(json, json.objects.comarcas);
 	var municipios = topojson.feature(json, json.objects.municipios);
+	debugger;
 
 	// Creamos una primera proyección centrada
 	var centroid   = d3.geo.centroid(municipios);
@@ -40,11 +41,15 @@
 	    .translate(offset);
 	path = d3.geo.path().projection(projection);
 
+	var filterZaragoza = function (e) {
+	    return e.properties.PROVINCIA == 'Zaragoza';
+	};
+
 	var capas = [
-	    ["municipios", municipios],
-	    ["comarcas", comarcas],
-	    ["provincias", provincias],
-	    ["aragon", aragon],
+	    ["municipios", municipios.features.filter(filterZaragoza)],
+	    ["comarcas", comarcas.features.filter(filterZaragoza)],
+	    ["provincias", provincias.features.filter(filterZaragoza)],
+	    //["aragon", aragon.features],
 	];
 
 	// Dibujamos las capas
@@ -56,7 +61,7 @@
 	    var g = svg.append("g").attr("class", clase);
 	    console.log(datos);
 	    g.selectAll("path")
-		.data(datos.features)
+		.data(datos)
 		.enter()
 		.append("path")
 		.attr("d", path);
