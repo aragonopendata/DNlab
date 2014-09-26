@@ -12,38 +12,29 @@
 	var provincias = topojson.feature(json, json.objects.provincias);
 	var comarcas = topojson.feature(json, json.objects.comarcas);
 	var municipios = topojson.feature(json, json.objects.municipios);
-	debugger;
-
-	// Creamos una primera proyección centrada
-	var centroid   = d3.geo.centroid(municipios);
-	var scale  = 5000;
-	var offset = [w/2, h/2];
-	var projection = d3.geo.mercator()
-	    .center(centroid).scale(scale)
-	    .translate(offset)
-	;
-
-	// Calculamos los límites X e Y
-	var path = d3.geo.path().projection(projection);
-	var bounds = path.bounds(municipios);
-	var x0 = bounds[0][0];
-	var y0 = bounds[0][1];
-	var x1 = bounds[1][0];
-	var y1 = bounds[1][1];
-
-	// Calculamos la proyección "de verdad"
-	var hscale = scale * w / (x1 - x0);
-	var vscale = scale * h / (y1 - y0);
-	scale  = Math.floor(Math.min(hscale, vscale)) * 0.9;
-	offset = [w - (x0 + x1) / 2, h - (y0 + y1)/2];
-	projection = d3.geo.mercator()
-	    .center(centroid).scale(scale)
-	    .translate(offset);
-	path = d3.geo.path().projection(projection);
 
 	var filterZaragoza = function (e) {
 	    return e.properties.PROVINCIA == 'Zaragoza';
 	};
+	var zaragoza = provincias.features.filter(filterZaragoza)[0];
+
+	// De http://stackoverflow.com/questions/14492284/ //////////
+
+	// Creamos una primera proyección centrada
+	var scale  = 1;
+	var offset = [0, 0];
+	var projection = d3.geo.mercator().scale(scale).translate(offset);
+	var path = d3.geo.path().projection(projection);
+
+	// Compute the bounds of a feature of interest, then derive scale & translate.
+	var b = path.bounds(zaragoza),
+	s = .95 / Math.max((b[1][0] - b[0][0]) / w, (b[1][1] - b[0][1]) / h),
+	t = [(w - s * (b[1][0] + b[0][0])) / 2, (h - s * (b[1][1] + b[0][1])) / 2];
+
+	// Update the projection to use computed scale & translate.
+	projection.scale(s).translate(t);
+
+	//////////////////////////////////////////////////
 
 	var capas = [
 	    ["municipios", municipios.features.filter(filterZaragoza)],
