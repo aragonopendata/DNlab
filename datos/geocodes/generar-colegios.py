@@ -20,6 +20,7 @@ with open("colegiosConGeocodeGMaps.csv") as f_gmaps:
             "nombre_corto": row["short_name"],
             "tipo_c": row["DENOMINACION GENÉRICA"],
             "nombre_c": row["DENOMINACION ESPECÍFICA"],
+            "direccion_cruda": ", ".join(row[x] for x in ("DOMICILIO", "LOCALIDAD", "PROVINCIA", "CODPOSTAL")),
         }
         gmaps[row["CÓDIGO"]] = fila
 
@@ -39,6 +40,7 @@ with open("colegiosConGeocodeMapQuest.csv") as f_mq:
                 )),
             "tipo_c": row["DENOMINACION GENÉRICA"],
             "nombre_c": row["DENOMINACION ESPECÍFICA"],
+            "direccion_cruda": ", ".join(row[x] for x in ("DOMICILIO", "LOCALIDAD", "PROVINCIA", "CODPOSTAL")),
         }
         mapquest[row["CÓDIGO"]] = fila
 
@@ -49,17 +51,21 @@ unidos = []
 for codigo in codigos:
     if codigo in gmaps:
         row = gmaps[codigo]
-        lat, lng, tipo, nombre = row["lat"], row["lng"], row["tipo_c"], row["nombre_c"]
+        lat, lng, tipo, nombre, addr, addr_r, src, quality = row["lat"], row["lng"], row["tipo_c"], row["nombre_c"], row["direccion"], row["direccion_cruda"], "GMaps", row["tipo"]
     else:
         row = mapquest[codigo]
-        lat, lng, tipo, nombre = row["lat"], row["lng"], row["tipo_c"], row["nombre_c"]
+        lat, lng, tipo, nombre, addr, addr_r, src, quality = row["lat"], row["lng"], row["tipo_c"], row["nombre_c"], row["direccion"], row["direccion_cruda"], "MapQuest", row["tipo"]
 
     unidos.append({
         "key": codigo,
         "lat": float(lat),
         "lng": float(lng),
         "tipo_c": tipo,
-        "nombre_c": nombre
+        "nombre_c": nombre,
+        "direccion": addr,
+        "direccion_cruda": addr_r,
+        "origen": src,
+        "calidad": quality
     })
 
 print json.dumps(unidos)

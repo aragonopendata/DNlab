@@ -23,3 +23,9 @@
 }
 
 .municipios path:hover { fill: blue; }
+
+.colegios circle {
+    fill: yellow;
+    stroke: orange;
+    stroke-width: 1;
+}

@@ -14,7 +14,7 @@
 	var municipios = topojson.feature(json, json.objects.municipios);
 
 	// Creamos una primera proyección centrada
-	var centroid   = d3.geo.centroid(municipios);
+	var centroid   = d3.geo.centroid(aragon);
 	var scale  = 5000;
 	var offset = [w/2, h/2];
 	var projection = d3.geo.mercator()
@@ -54,14 +54,26 @@
 
 	    // Dibujamos las provincias
 	    var g = svg.append("g").attr("class", clase);
-	    console.log(datos);
 	    g.selectAll("path")
 		.data(datos.features)
 		.enter()
 		.append("path")
-		.attr("d", path);
+		.attr("d", path)
+		.on("click", function (d) { console.log(d); });
 	}
 
+	d3.json("json/colegios.json", function(error, colegios) {
+	    var g = svg.append("g").attr("class", "colegios");
+
+	    g.selectAll("circle")
+		.data(colegios)
+		.enter()
+		.append("circle").attr({
+		    "transform": function (d) { return "translate(" + projection([d["lng"], d["lat"]]) + ")"; },
+		    "r": 2,
+		})
+		.on("click", function (d) { console.log(d); });
+	});
     });
 
 })();
