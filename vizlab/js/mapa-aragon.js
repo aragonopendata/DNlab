@@ -4,8 +4,8 @@
 
     var svg = d3.select("#mapa").append("svg").attr({width: w, height: h});
 
-    d3.json("json/municipios.topojson", function (error, json) {
-	if (error) return console.log('Error cargando municipios', error);
+    d3.json("json/aragon.topojson", function (error, json) {
+	if (error) return console.log('Error cargando comarcas', error);
 
 	// Cargamos el mapa TopoJSON
 	var municipios = topojson.feature(json, json.objects.municipios);
