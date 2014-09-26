@@ -50,7 +50,6 @@
 
 	    // Dibujamos las provincias
 	    var g = svg.append("g").attr("class", clase);
-	    console.log(datos);
 	    g.selectAll("path")
 		.data(datos)
 		.enter()
@@ -58,6 +57,21 @@
 		.attr("d", path);
 	}
 
+	d3.json("json/colegios.json", function(error, colegios) {
+	    var g = svg.append("g").attr("class", "colegios");
+	    colegios = colegios.filter(function (e) {
+		return e.provincia == 'Zaragoza';
+	    });
+
+	    g.selectAll("circle")
+		.data(colegios)
+		.enter()
+		.append("circle").attr({
+		    "transform": function (d) { return "translate(" + projection([d["lng"], d["lat"]]) + ")"; },
+		    "r": 2,
+		})
+		.on("click", function (d) { console.log(d); });
+	});
     });
 
 })();

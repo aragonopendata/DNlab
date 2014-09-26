@@ -21,6 +21,8 @@ with open("colegiosConGeocodeGMaps.csv") as f_gmaps:
             "tipo_c": row["DENOMINACION GENÉRICA"],
             "nombre_c": row["DENOMINACION ESPECÍFICA"],
             "direccion_cruda": ", ".join(row[x] for x in ("DOMICILIO", "LOCALIDAD", "PROVINCIA", "CODPOSTAL")),
+            "provincia": row["PROVINCIA"],
+            "localidad": row["LOCALIDAD"],
         }
         gmaps[row["CÓDIGO"]] = fila
 
@@ -41,6 +43,8 @@ with open("colegiosConGeocodeMapQuest.csv") as f_mq:
             "tipo_c": row["DENOMINACION GENÉRICA"],
             "nombre_c": row["DENOMINACION ESPECÍFICA"],
             "direccion_cruda": ", ".join(row[x] for x in ("DOMICILIO", "LOCALIDAD", "PROVINCIA", "CODPOSTAL")),
+            "provincia": row["PROVINCIA"],
+            "localidad": row["LOCALIDAD"],
         }
         mapquest[row["CÓDIGO"]] = fila
 
@@ -51,10 +55,18 @@ unidos = []
 for codigo in codigos:
     if codigo in gmaps:
         row = gmaps[codigo]
-        lat, lng, tipo, nombre, addr, addr_r, src, quality = row["lat"], row["lng"], row["tipo_c"], row["nombre_c"], row["direccion"], row["direccion_cruda"], "GMaps", row["tipo"]
+        lat, lng, tipo, nombre, addr, addr_r, src, quality, prov, loc = (
+            row["lat"], row["lng"], row["tipo_c"], row["nombre_c"],
+            row["direccion"], row["direccion_cruda"], "GMaps", row["tipo"],
+            row["provincia"], row["localidad"]
+        )
     else:
         row = mapquest[codigo]
-        lat, lng, tipo, nombre, addr, addr_r, src, quality = row["lat"], row["lng"], row["tipo_c"], row["nombre_c"], row["direccion"], row["direccion_cruda"], "MapQuest", row["tipo"]
+        lat, lng, tipo, nombre, addr, addr_r, src, quality, prov, loc = (
+            row["lat"], row["lng"], row["tipo_c"], row["nombre_c"],
+            row["direccion"], row["direccion_cruda"], "MapQuest", row["tipo"],
+            row["provincia"], row["localidad"]
+        )
 
     unidos.append({
         "key": codigo,
@@ -65,7 +77,9 @@ for codigo in codigos:
         "direccion": addr,
         "direccion_cruda": addr_r,
         "origen": src,
-        "calidad": quality
+        "calidad": quality,
+        "provincia": prov,
+        "localidad": loc
     })
 
 print json.dumps(unidos)
