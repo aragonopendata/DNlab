@@ -1,5 +1,19 @@
-(function() {
+/*
+ * Biblioteca JS que permite dibujar mapas estáticos sencillos de
+ * Aragón, por provincias, comarcas o municipios, y que opcionalmente
+ * puede marcar los colegios.
+ *
+ * Para crear un mapa, basta con poner un 'div' con clase 'mapa'. Eso
+ * creará un mapa de Aragón entero. Se puede concretar con:
+ *
+ * - data-w: ancho en px
+ * - data-h: alto en px
+ * - data-clip: si 'false' no se recorta por el contorno
+ * - data-provincia: nombre de la provincia para enfocar y filtrar
+ * - data-codcomarca: código de la comarca para enfocar y filtrar
+ */
 
+(function() {
     function arrayToObject(a) {
 	var o = {};
 	for (var i = 0; i < a.length; i++) {
@@ -28,7 +42,6 @@
 	    provincias.features = provincias.features.filter(function (e) { return e.properties.PROVINCIA == provincia; });
 	    comarcas.features = comarcas.features.filter(function (e) { return e.properties.provincia == provincia; });
 	    municipios.features = municipios.features.filter(function (e) { return e.properties.PROVINCIA == provincia; });
-
 	    json_colegios = json_colegios.filter(function (e) { return e.provincia == provincia; });
 
 	    enfoque = provincias.features[0];
@@ -36,6 +49,8 @@
 	if (codcomarca) {
 	    comarcas.features = comarcas.features.filter(function (e) { return e.properties.c_comarca == codcomarca; });
 	    municipios.features = municipios.features.filter(function (e) { return e.properties.C_COMARCA == codcomarca; });
+	    json_colegios = json_colegios.filter(function (e) { return e.c_comarca == codcomarca; });
+
 	    enfoque = comarcas.features[0];
 	}
 
