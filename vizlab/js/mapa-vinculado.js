@@ -154,6 +154,8 @@
 		    ga.crearGrafica();
 
 		    e.svg.on("click", function (d) {
+			d3.select("#desc").text("Todo Aragón");
+
 			gp.actualizarGrafica();
 			ga.actualizarGrafica();
 		    });
@@ -162,6 +164,8 @@
 			gp.actualizarGrafica(d.properties.c_comarca);
 			ga.actualizarGrafica(d.properties.c_comarca);
 			d3.event.stopPropagation();
+
+			d3.select("#desc").text(d.properties.d_comarca);
 		    });
 		});
 	    });
