@@ -153,9 +153,15 @@
 		    gp.crearGrafica();
 		    ga.crearGrafica();
 
+		    e.svg.on("click", function (d) {
+			gp.actualizarGrafica();
+			ga.actualizarGrafica();
+		    });
+
 		    e.svg.selectAll(".comarcas path").on("click", function (d) {
 			gp.actualizarGrafica(d.properties.c_comarca);
 			ga.actualizarGrafica(d.properties.c_comarca);
+			d3.event.stopPropagation();
 		    });
 		});
 	    });
