@@ -10,6 +10,8 @@
 
     function dibujarMapa(elem, json_aragon, json_colegios) {
 	var w = parseInt(elem.attr("data-w")) || 400, h = parseInt(elem.attr("data-h")) || 400;
+	var clip = elem.attr("data-clip") != "false";
+
 	var svg = elem.append("svg").attr({width: w, height: h});
 
 	// Cargamos las partes del mapa TopoJSON
@@ -63,6 +65,13 @@
 	if ("comunidad" in capasSel) capas.push(["aragon", aragon]);
 	if ("comarcas" in capasSel) capas.push(["comarcas", comarcas]);
 
+	// Dibujamos el clipping path
+	if (clip) {
+	    svg.append("defs").append("clipPath")
+		.attr("id", "clipmapa")
+		.append("path").attr("d", path(enfoque));
+	}
+
 	// Dibujamos las capas principales
 	for (var i = 0; i < capas.length; i++) {
 	    var clase = capas[i][0];
@@ -70,6 +79,7 @@
 
 	    // Dibujamos las provincias
 	    var g = svg.append("g").attr("class", clase);
+	    if (clip) { g.attr("clip-path", "url(#clipmapa)"); }
 	    g.selectAll("path")
 		.data(datos.features)
 		.enter()
@@ -81,6 +91,9 @@
 	// Dibujamos los colegios
 	if ("colegios" in capasSel) {
 	    var g = svg.append("g").attr("class", "colegios");
+	    if (clip) {
+		g.attr("clip-path", "url(#clipmapa)");
+	    }
 
 	    g.selectAll("circle")
 		.data(json_colegios)
