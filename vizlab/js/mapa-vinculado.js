@@ -18,7 +18,7 @@
 	var colNac;
 	var colExt;
 	var anyos;
-	self.actualizarDatosComarca = function(codComarca) {
+	self.actualizarDatos = function(codComarca) {
 	    var datosComarca = json_pob
 	    if (typeof codComarca !== 'undefined') {
 		datosComarca = datosComarca.filter(function (e) { return e.c_comarca == codComarca; });
@@ -59,7 +59,7 @@
 	}
 
 	self.actualizarGrafica = function(codComarca) {
-	    self.actualizarDatosComarca(codComarca);
+	    self.actualizarDatos(codComarca);
 	    chart.load({
 		columns: [colNac, colExt],
 	    });
@@ -75,7 +75,7 @@
 
 	var colPub, colPriC, colPriNC;
 	var anyos;
-	self.actualizarDatosComarca = function(codComarca) {
+	self.actualizarDatos = function(codComarca) {
 	    // Filtrar por comarca y ordenar por año
 	    var datosComarca = json_alum;
 
@@ -127,7 +127,7 @@
 	}
 
 	self.actualizarGrafica = function(codComarca) {
-	    self.actualizarDatosComarca(codComarca);
+	    self.actualizarDatos(codComarca);
 	    chart.load({
 		columns: [colPub, colPriNC, colPriC],
 	    });
@@ -144,12 +144,12 @@
 	    d3.json("json/alumnado_por_comarcas.json", function (error, json_alum) {
 		if (error) return console.log("Error cargando alumnos");
 
-		MapaAragon.dibujarMapas(function (e) {
-		    var gp = GraficaPob(json_pob);
-		    var ga = GraficaAlum(json_alum);
+		var gp = GraficaPob(json_pob);
+		var ga = GraficaAlum(json_alum);
 
-		    gp.actualizarDatosComarca();
-		    ga.actualizarDatosComarca();
+		MapaAragon.dibujarMapas(function (e) {
+		    gp.actualizarDatos();
+		    ga.actualizarDatos();
 		    gp.crearGrafica();
 		    ga.crearGrafica();
 

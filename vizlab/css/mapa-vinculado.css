@@ -2,6 +2,14 @@ svg {
     border: 1px solid black;
 }
 
+.provincias path {
+    stroke-width: 2;
+    stroke: blue;
+    fill: lightBlue;
+}
+
+.provincias path:hover { fill: lightGreen; }
+
 .comarcas path {
     stroke-width: 2;
     stroke: blue;
