@@ -1,0 +1,2312 @@
+[
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 16992, 
+        "c_comarca": "1", 
+        "d_comarca": "LA JACETANIA", 
+        "pob_ext_i": 963
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 12198, 
+        "c_comarca": "2", 
+        "d_comarca": "ALTO G\u00c1LLEGO", 
+        "pob_ext_i": 551
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 6684, 
+        "c_comarca": "3", 
+        "d_comarca": "SOBRARBE", 
+        "pob_ext_i": 269
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 11703, 
+        "c_comarca": "4", 
+        "d_comarca": "LA RIBAGORZA", 
+        "pob_ext_i": 846
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 30820, 
+        "c_comarca": "5", 
+        "d_comarca": "CINCO VILLAS", 
+        "pob_ext_i": 2209
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 59504, 
+        "c_comarca": "6", 
+        "d_comarca": "HOYA DE HUESCA/PLANA DE UESCA", 
+        "pob_ext_i": 2913
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 22083, 
+        "c_comarca": "7", 
+        "d_comarca": "SOMONTANO DE BARBASTRO", 
+        "pob_ext_i": 1132
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 20978, 
+        "c_comarca": "8", 
+        "d_comarca": "CINCA MEDIO", 
+        "pob_ext_i": 1631
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 17517, 
+        "c_comarca": "9", 
+        "d_comarca": "LA LITERA/LA LLITERA", 
+        "pob_ext_i": 1213
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 20150, 
+        "c_comarca": "10", 
+        "d_comarca": "LOS MONEGROS", 
+        "pob_ext_i": 721
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 21251, 
+        "c_comarca": "11", 
+        "d_comarca": "BAJO CINCA/BAIX CINCA", 
+        "pob_ext_i": 1820
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 13822, 
+        "c_comarca": "12", 
+        "d_comarca": "TARAZONA Y EL MONCAYO", 
+        "pob_ext_i": 560
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 13562, 
+        "c_comarca": "13", 
+        "d_comarca": "CAMPO DE BORJA", 
+        "pob_ext_i": 768
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 7620, 
+        "c_comarca": "14", 
+        "d_comarca": "ARANDA", 
+        "pob_ext_i": 372
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 22622, 
+        "c_comarca": "15", 
+        "d_comarca": "RIBERA ALTA DEL EBRO", 
+        "pob_ext_i": 932
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 22437, 
+        "c_comarca": "16", 
+        "d_comarca": "VALDEJAL\u00d3N", 
+        "pob_ext_i": 2740
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 641307, 
+        "c_comarca": "17", 
+        "d_comarca": "D.C. ZARAGOZA", 
+        "pob_ext_i": 44566
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 8996, 
+        "c_comarca": "18", 
+        "d_comarca": "RIBERA BAJA DEL EBRO", 
+        "pob_ext_i": 234
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 12235, 
+        "c_comarca": "19", 
+        "d_comarca": "BAJO ARAG\u00d3N-CASPE/BAIX ARAG\u00d3-CASP", 
+        "pob_ext_i": 660
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 37271, 
+        "c_comarca": "20", 
+        "d_comarca": "COMUNIDAD DE CALATAYUD", 
+        "pob_ext_i": 3293
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 9248, 
+        "c_comarca": "21", 
+        "d_comarca": "CAMPO DE CARI\u00d1ENA", 
+        "pob_ext_i": 1471
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 5170, 
+        "c_comarca": "22", 
+        "d_comarca": "CAMPO DE BELCHITE", 
+        "pob_ext_i": 111
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 7003, 
+        "c_comarca": "23", 
+        "d_comarca": "BAJO MART\u00cdN", 
+        "pob_ext_i": 271
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 6297, 
+        "c_comarca": "24", 
+        "d_comarca": "CAMPO DE DAROCA", 
+        "pob_ext_i": 142
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 13061, 
+        "c_comarca": "25", 
+        "d_comarca": "JILOCA", 
+        "pob_ext_i": 700
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 8977, 
+        "c_comarca": "26", 
+        "d_comarca": "CUENCAS MINERAS", 
+        "pob_ext_i": 429
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 10697, 
+        "c_comarca": "27", 
+        "d_comarca": "ANDORRA-SIERRA DE ARCOS", 
+        "pob_ext_i": 442
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 25897, 
+        "c_comarca": "28", 
+        "d_comarca": "BAJO ARAG\u00d3N", 
+        "pob_ext_i": 2240
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 42369, 
+        "c_comarca": "29", 
+        "d_comarca": "COMUNIDAD DE TERUEL", 
+        "pob_ext_i": 1772
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 3497, 
+        "c_comarca": "30", 
+        "d_comarca": "MAESTRAZGO", 
+        "pob_ext_i": 252
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 4722, 
+        "c_comarca": "31", 
+        "d_comarca": "SIERRA DE ALBARRAC\u00cdN", 
+        "pob_ext_i": 199
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 7498, 
+        "c_comarca": "32", 
+        "d_comarca": "G\u00daDAR-JAVALAMBRE", 
+        "pob_ext_i": 646
+    }, 
+    {
+        "anyo": "2004", 
+        "pob_nac_i": 8184, 
+        "c_comarca": "33", 
+        "d_comarca": "MATARRA\u00d1A/MATARRANYA", 
+        "pob_ext_i": 477
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 16680, 
+        "c_comarca": "1", 
+        "d_comarca": "LA JACETANIA", 
+        "pob_ext_i": 1250
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 12240, 
+        "c_comarca": "2", 
+        "d_comarca": "ALTO G\u00c1LLEGO", 
+        "pob_ext_i": 881
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 6765, 
+        "c_comarca": "3", 
+        "d_comarca": "SOBRARBE", 
+        "pob_ext_i": 386
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 11656, 
+        "c_comarca": "4", 
+        "d_comarca": "LA RIBAGORZA", 
+        "pob_ext_i": 1049
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 30630, 
+        "c_comarca": "5", 
+        "d_comarca": "CINCO VILLAS", 
+        "pob_ext_i": 2731
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 59678, 
+        "c_comarca": "6", 
+        "d_comarca": "HOYA DE HUESCA/PLANA DE UESCA", 
+        "pob_ext_i": 3756
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 22029, 
+        "c_comarca": "7", 
+        "d_comarca": "SOMONTANO DE BARBASTRO", 
+        "pob_ext_i": 1382
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 20945, 
+        "c_comarca": "8", 
+        "d_comarca": "CINCA MEDIO", 
+        "pob_ext_i": 1991
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 17320, 
+        "c_comarca": "9", 
+        "d_comarca": "LA LITERA/LA LLITERA", 
+        "pob_ext_i": 1478
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 19921, 
+        "c_comarca": "10", 
+        "d_comarca": "LOS MONEGROS", 
+        "pob_ext_i": 908
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 21178, 
+        "c_comarca": "11", 
+        "d_comarca": "BAJO CINCA/BAIX CINCA", 
+        "pob_ext_i": 2268
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 13840, 
+        "c_comarca": "12", 
+        "d_comarca": "TARAZONA Y EL MONCAYO", 
+        "pob_ext_i": 627
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 13505, 
+        "c_comarca": "13", 
+        "d_comarca": "CAMPO DE BORJA", 
+        "pob_ext_i": 955
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 7454, 
+        "c_comarca": "14", 
+        "d_comarca": "ARANDA", 
+        "pob_ext_i": 379
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 23110, 
+        "c_comarca": "15", 
+        "d_comarca": "RIBERA ALTA DEL EBRO", 
+        "pob_ext_i": 1244
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 22777, 
+        "c_comarca": "16", 
+        "d_comarca": "VALDEJAL\u00d3N", 
+        "pob_ext_i": 3307
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 642605, 
+        "c_comarca": "17", 
+        "d_comarca": "D.C. ZARAGOZA", 
+        "pob_ext_i": 54927
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 8908, 
+        "c_comarca": "18", 
+        "d_comarca": "RIBERA BAJA DEL EBRO", 
+        "pob_ext_i": 315
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 12247, 
+        "c_comarca": "19", 
+        "d_comarca": "BAJO ARAG\u00d3N-CASPE/BAIX ARAG\u00d3-CASP", 
+        "pob_ext_i": 994
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 36906, 
+        "c_comarca": "20", 
+        "d_comarca": "COMUNIDAD DE CALATAYUD", 
+        "pob_ext_i": 4121
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 9125, 
+        "c_comarca": "21", 
+        "d_comarca": "CAMPO DE CARI\u00d1ENA", 
+        "pob_ext_i": 1736
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 5059, 
+        "c_comarca": "22", 
+        "d_comarca": "CAMPO DE BELCHITE", 
+        "pob_ext_i": 162
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 6935, 
+        "c_comarca": "23", 
+        "d_comarca": "BAJO MART\u00cdN", 
+        "pob_ext_i": 341
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 6266, 
+        "c_comarca": "24", 
+        "d_comarca": "CAMPO DE DAROCA", 
+        "pob_ext_i": 245
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 12896, 
+        "c_comarca": "25", 
+        "d_comarca": "JILOCA", 
+        "pob_ext_i": 1044
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 8858, 
+        "c_comarca": "26", 
+        "d_comarca": "CUENCAS MINERAS", 
+        "pob_ext_i": 592
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 10608, 
+        "c_comarca": "27", 
+        "d_comarca": "ANDORRA-SIERRA DE ARCOS", 
+        "pob_ext_i": 550
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 25954, 
+        "c_comarca": "28", 
+        "d_comarca": "BAJO ARAG\u00d3N", 
+        "pob_ext_i": 2768
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 42442, 
+        "c_comarca": "29", 
+        "d_comarca": "COMUNIDAD DE TERUEL", 
+        "pob_ext_i": 2364
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 3446, 
+        "c_comarca": "30", 
+        "d_comarca": "MAESTRAZGO", 
+        "pob_ext_i": 293
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 4642, 
+        "c_comarca": "31", 
+        "d_comarca": "SIERRA DE ALBARRAC\u00cdN", 
+        "pob_ext_i": 230
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 7433, 
+        "c_comarca": "32", 
+        "d_comarca": "G\u00daDAR-JAVALAMBRE", 
+        "pob_ext_i": 965
+    }, 
+    {
+        "anyo": "2005", 
+        "pob_nac_i": 8121, 
+        "c_comarca": "33", 
+        "d_comarca": "MATARRA\u00d1A/MATARRANYA", 
+        "pob_ext_i": 609
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 16783, 
+        "c_comarca": "1", 
+        "d_comarca": "LA JACETANIA", 
+        "pob_ext_i": 1383
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 12298, 
+        "c_comarca": "2", 
+        "d_comarca": "ALTO G\u00c1LLEGO", 
+        "pob_ext_i": 1159
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 6772, 
+        "c_comarca": "3", 
+        "d_comarca": "SOBRARBE", 
+        "pob_ext_i": 521
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 11771, 
+        "c_comarca": "4", 
+        "d_comarca": "LA RIBAGORZA", 
+        "pob_ext_i": 1040
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 30419, 
+        "c_comarca": "5", 
+        "d_comarca": "CINCO VILLAS", 
+        "pob_ext_i": 2735
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 60020, 
+        "c_comarca": "6", 
+        "d_comarca": "HOYA DE HUESCA/PLANA DE UESCA", 
+        "pob_ext_i": 4511
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 21984, 
+        "c_comarca": "7", 
+        "d_comarca": "SOMONTANO DE BARBASTRO", 
+        "pob_ext_i": 1480
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 20913, 
+        "c_comarca": "8", 
+        "d_comarca": "CINCA MEDIO", 
+        "pob_ext_i": 2159
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 17194, 
+        "c_comarca": "9", 
+        "d_comarca": "LA LITERA/LA LLITERA", 
+        "pob_ext_i": 1653
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 19803, 
+        "c_comarca": "10", 
+        "d_comarca": "LOS MONEGROS", 
+        "pob_ext_i": 1093
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 21026, 
+        "c_comarca": "11", 
+        "d_comarca": "BAJO CINCA/BAIX CINCA", 
+        "pob_ext_i": 2340
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 13807, 
+        "c_comarca": "12", 
+        "d_comarca": "TARAZONA Y EL MONCAYO", 
+        "pob_ext_i": 768
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 13462, 
+        "c_comarca": "13", 
+        "d_comarca": "CAMPO DE BORJA", 
+        "pob_ext_i": 1062
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 7340, 
+        "c_comarca": "14", 
+        "d_comarca": "ARANDA", 
+        "pob_ext_i": 341
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 23504, 
+        "c_comarca": "15", 
+        "d_comarca": "RIBERA ALTA DEL EBRO", 
+        "pob_ext_i": 1371
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 22955, 
+        "c_comarca": "16", 
+        "d_comarca": "VALDEJAL\u00d3N", 
+        "pob_ext_i": 3482
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 643318, 
+        "c_comarca": "17", 
+        "d_comarca": "D.C. ZARAGOZA", 
+        "pob_ext_i": 59344
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 8860, 
+        "c_comarca": "18", 
+        "d_comarca": "RIBERA BAJA DEL EBRO", 
+        "pob_ext_i": 337
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 12176, 
+        "c_comarca": "19", 
+        "d_comarca": "BAJO ARAG\u00d3N-CASPE/BAIX ARAG\u00d3-CASP", 
+        "pob_ext_i": 1430
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 36600, 
+        "c_comarca": "20", 
+        "d_comarca": "COMUNIDAD DE CALATAYUD", 
+        "pob_ext_i": 3727
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 9095, 
+        "c_comarca": "21", 
+        "d_comarca": "CAMPO DE CARI\u00d1ENA", 
+        "pob_ext_i": 1485
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 5024, 
+        "c_comarca": "22", 
+        "d_comarca": "CAMPO DE BELCHITE", 
+        "pob_ext_i": 172
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 6881, 
+        "c_comarca": "23", 
+        "d_comarca": "BAJO MART\u00cdN", 
+        "pob_ext_i": 371
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 6240, 
+        "c_comarca": "24", 
+        "d_comarca": "CAMPO DE DAROCA", 
+        "pob_ext_i": 354
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 12770, 
+        "c_comarca": "25", 
+        "d_comarca": "JILOCA", 
+        "pob_ext_i": 1202
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 8736, 
+        "c_comarca": "26", 
+        "d_comarca": "CUENCAS MINERAS", 
+        "pob_ext_i": 740
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 10488, 
+        "c_comarca": "27", 
+        "d_comarca": "ANDORRA-SIERRA DE ARCOS", 
+        "pob_ext_i": 635
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 26001, 
+        "c_comarca": "28", 
+        "d_comarca": "BAJO ARAG\u00d3N", 
+        "pob_ext_i": 3127
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 42367, 
+        "c_comarca": "29", 
+        "d_comarca": "COMUNIDAD DE TERUEL", 
+        "pob_ext_i": 2946
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 3428, 
+        "c_comarca": "30", 
+        "d_comarca": "MAESTRAZGO", 
+        "pob_ext_i": 309
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 4616, 
+        "c_comarca": "31", 
+        "d_comarca": "SIERRA DE ALBARRAC\u00cdN", 
+        "pob_ext_i": 296
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 7412, 
+        "c_comarca": "32", 
+        "d_comarca": "G\u00daDAR-JAVALAMBRE", 
+        "pob_ext_i": 1162
+    }, 
+    {
+        "anyo": "2006", 
+        "pob_nac_i": 8047, 
+        "c_comarca": "33", 
+        "d_comarca": "MATARRA\u00d1A/MATARRANYA", 
+        "pob_ext_i": 626
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 16741, 
+        "c_comarca": "1", 
+        "d_comarca": "LA JACETANIA", 
+        "pob_ext_i": 1403
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 12412, 
+        "c_comarca": "2", 
+        "d_comarca": "ALTO G\u00c1LLEGO", 
+        "pob_ext_i": 1543
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 6848, 
+        "c_comarca": "3", 
+        "d_comarca": "SOBRARBE", 
+        "pob_ext_i": 635
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 11715, 
+        "c_comarca": "4", 
+        "d_comarca": "LA RIBAGORZA", 
+        "pob_ext_i": 1238
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 30165, 
+        "c_comarca": "5", 
+        "d_comarca": "CINCO VILLAS", 
+        "pob_ext_i": 3031
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 60227, 
+        "c_comarca": "6", 
+        "d_comarca": "HOYA DE HUESCA/PLANA DE UESCA", 
+        "pob_ext_i": 5039
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 21893, 
+        "c_comarca": "7", 
+        "d_comarca": "SOMONTANO DE BARBASTRO", 
+        "pob_ext_i": 1720
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 20880, 
+        "c_comarca": "8", 
+        "d_comarca": "CINCA MEDIO", 
+        "pob_ext_i": 2204
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 17071, 
+        "c_comarca": "9", 
+        "d_comarca": "LA LITERA/LA LLITERA", 
+        "pob_ext_i": 1796
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 19670, 
+        "c_comarca": "10", 
+        "d_comarca": "LOS MONEGROS", 
+        "pob_ext_i": 1277
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 20799, 
+        "c_comarca": "11", 
+        "d_comarca": "BAJO CINCA/BAIX CINCA", 
+        "pob_ext_i": 2846
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 13810, 
+        "c_comarca": "12", 
+        "d_comarca": "TARAZONA Y EL MONCAYO", 
+        "pob_ext_i": 880
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 13518, 
+        "c_comarca": "13", 
+        "d_comarca": "CAMPO DE BORJA", 
+        "pob_ext_i": 1396
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 7216, 
+        "c_comarca": "14", 
+        "d_comarca": "ARANDA", 
+        "pob_ext_i": 411
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 23897, 
+        "c_comarca": "15", 
+        "d_comarca": "RIBERA ALTA DEL EBRO", 
+        "pob_ext_i": 1848
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 23313, 
+        "c_comarca": "16", 
+        "d_comarca": "VALDEJAL\u00d3N", 
+        "pob_ext_i": 4110
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 644579, 
+        "c_comarca": "17", 
+        "d_comarca": "D.C. ZARAGOZA", 
+        "pob_ext_i": 70025
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 8741, 
+        "c_comarca": "18", 
+        "d_comarca": "RIBERA BAJA DEL EBRO", 
+        "pob_ext_i": 414
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 12107, 
+        "c_comarca": "19", 
+        "d_comarca": "BAJO ARAG\u00d3N-CASPE/BAIX ARAG\u00d3-CASP", 
+        "pob_ext_i": 1468
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 36192, 
+        "c_comarca": "20", 
+        "d_comarca": "COMUNIDAD DE CALATAYUD", 
+        "pob_ext_i": 5164
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 9057, 
+        "c_comarca": "21", 
+        "d_comarca": "CAMPO DE CARI\u00d1ENA", 
+        "pob_ext_i": 1549
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 5022, 
+        "c_comarca": "22", 
+        "d_comarca": "CAMPO DE BELCHITE", 
+        "pob_ext_i": 200
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 6829, 
+        "c_comarca": "23", 
+        "d_comarca": "BAJO MART\u00cdN", 
+        "pob_ext_i": 598
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 6190, 
+        "c_comarca": "24", 
+        "d_comarca": "CAMPO DE DAROCA", 
+        "pob_ext_i": 349
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 12715, 
+        "c_comarca": "25", 
+        "d_comarca": "JILOCA", 
+        "pob_ext_i": 1538
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 8689, 
+        "c_comarca": "26", 
+        "d_comarca": "CUENCAS MINERAS", 
+        "pob_ext_i": 807
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 10407, 
+        "c_comarca": "27", 
+        "d_comarca": "ANDORRA-SIERRA DE ARCOS", 
+        "pob_ext_i": 905
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 25952, 
+        "c_comarca": "28", 
+        "d_comarca": "BAJO ARAG\u00d3N", 
+        "pob_ext_i": 3406
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 42204, 
+        "c_comarca": "29", 
+        "d_comarca": "COMUNIDAD DE TERUEL", 
+        "pob_ext_i": 3749
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 3379, 
+        "c_comarca": "30", 
+        "d_comarca": "MAESTRAZGO", 
+        "pob_ext_i": 356
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 4643, 
+        "c_comarca": "31", 
+        "d_comarca": "SIERRA DE ALBARRAC\u00cdN", 
+        "pob_ext_i": 398
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 7381, 
+        "c_comarca": "32", 
+        "d_comarca": "G\u00daDAR-JAVALAMBRE", 
+        "pob_ext_i": 1293
+    }, 
+    {
+        "anyo": "2007", 
+        "pob_nac_i": 7989, 
+        "c_comarca": "33", 
+        "d_comarca": "MATARRA\u00d1A/MATARRANYA", 
+        "pob_ext_i": 808
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 16758, 
+        "c_comarca": "1", 
+        "d_comarca": "LA JACETANIA", 
+        "pob_ext_i": 1753
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 12469, 
+        "c_comarca": "2", 
+        "d_comarca": "ALTO G\u00c1LLEGO", 
+        "pob_ext_i": 2101
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 6839, 
+        "c_comarca": "3", 
+        "d_comarca": "SOBRARBE", 
+        "pob_ext_i": 893
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 11631, 
+        "c_comarca": "4", 
+        "d_comarca": "LA RIBAGORZA", 
+        "pob_ext_i": 1645
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 29948, 
+        "c_comarca": "5", 
+        "d_comarca": "CINCO VILLAS", 
+        "pob_ext_i": 3636
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 60564, 
+        "c_comarca": "6", 
+        "d_comarca": "HOYA DE HUESCA/PLANA DE UESCA", 
+        "pob_ext_i": 6229
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 21964, 
+        "c_comarca": "7", 
+        "d_comarca": "SOMONTANO DE BARBASTRO", 
+        "pob_ext_i": 2126
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 20929, 
+        "c_comarca": "8", 
+        "d_comarca": "CINCA MEDIO", 
+        "pob_ext_i": 2791
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 17002, 
+        "c_comarca": "9", 
+        "d_comarca": "LA LITERA/LA LLITERA", 
+        "pob_ext_i": 2164
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 19557, 
+        "c_comarca": "10", 
+        "d_comarca": "LOS MONEGROS", 
+        "pob_ext_i": 1681
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 20713, 
+        "c_comarca": "11", 
+        "d_comarca": "BAJO CINCA/BAIX CINCA", 
+        "pob_ext_i": 3379
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 13651, 
+        "c_comarca": "12", 
+        "d_comarca": "TARAZONA Y EL MONCAYO", 
+        "pob_ext_i": 1096
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 13448, 
+        "c_comarca": "13", 
+        "d_comarca": "CAMPO DE BORJA", 
+        "pob_ext_i": 1979
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 7143, 
+        "c_comarca": "14", 
+        "d_comarca": "ARANDA", 
+        "pob_ext_i": 488
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 24332, 
+        "c_comarca": "15", 
+        "d_comarca": "RIBERA ALTA DEL EBRO", 
+        "pob_ext_i": 2620
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 23748, 
+        "c_comarca": "16", 
+        "d_comarca": "VALDEJAL\u00d3N", 
+        "pob_ext_i": 5681
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 645407, 
+        "c_comarca": "17", 
+        "d_comarca": "D.C. ZARAGOZA", 
+        "pob_ext_i": 85908
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 8691, 
+        "c_comarca": "18", 
+        "d_comarca": "RIBERA BAJA DEL EBRO", 
+        "pob_ext_i": 549
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 12071, 
+        "c_comarca": "19", 
+        "d_comarca": "BAJO ARAG\u00d3N-CASPE/BAIX ARAG\u00d3-CASP", 
+        "pob_ext_i": 1869
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 35839, 
+        "c_comarca": "20", 
+        "d_comarca": "COMUNIDAD DE CALATAYUD", 
+        "pob_ext_i": 6540
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 8962, 
+        "c_comarca": "21", 
+        "d_comarca": "CAMPO DE CARI\u00d1ENA", 
+        "pob_ext_i": 2025
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 5024, 
+        "c_comarca": "22", 
+        "d_comarca": "CAMPO DE BELCHITE", 
+        "pob_ext_i": 258
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 6697, 
+        "c_comarca": "23", 
+        "d_comarca": "BAJO MART\u00cdN", 
+        "pob_ext_i": 614
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 6055, 
+        "c_comarca": "24", 
+        "d_comarca": "CAMPO DE DAROCA", 
+        "pob_ext_i": 438
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 12556, 
+        "c_comarca": "25", 
+        "d_comarca": "JILOCA", 
+        "pob_ext_i": 2033
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 8484, 
+        "c_comarca": "26", 
+        "d_comarca": "CUENCAS MINERAS", 
+        "pob_ext_i": 902
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 10341, 
+        "c_comarca": "27", 
+        "d_comarca": "ANDORRA-SIERRA DE ARCOS", 
+        "pob_ext_i": 1201
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 26021, 
+        "c_comarca": "28", 
+        "d_comarca": "BAJO ARAG\u00d3N", 
+        "pob_ext_i": 4125
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 42115, 
+        "c_comarca": "29", 
+        "d_comarca": "COMUNIDAD DE TERUEL", 
+        "pob_ext_i": 4846
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 3358, 
+        "c_comarca": "30", 
+        "d_comarca": "MAESTRAZGO", 
+        "pob_ext_i": 431
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 4554, 
+        "c_comarca": "31", 
+        "d_comarca": "SIERRA DE ALBARRAC\u00cdN", 
+        "pob_ext_i": 460
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 7229, 
+        "c_comarca": "32", 
+        "d_comarca": "G\u00daDAR-JAVALAMBRE", 
+        "pob_ext_i": 1463
+    }, 
+    {
+        "anyo": "2008", 
+        "pob_nac_i": 7926, 
+        "c_comarca": "33", 
+        "d_comarca": "MATARRA\u00d1A/MATARRANYA", 
+        "pob_ext_i": 968
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 16903, 
+        "c_comarca": "1", 
+        "d_comarca": "LA JACETANIA", 
+        "pob_ext_i": 1800
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 12564, 
+        "c_comarca": "2", 
+        "d_comarca": "ALTO G\u00c1LLEGO", 
+        "pob_ext_i": 2352
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 6765, 
+        "c_comarca": "3", 
+        "d_comarca": "SOBRARBE", 
+        "pob_ext_i": 999
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 11477, 
+        "c_comarca": "4", 
+        "d_comarca": "LA RIBAGORZA", 
+        "pob_ext_i": 1855
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 29654, 
+        "c_comarca": "5", 
+        "d_comarca": "CINCO VILLAS", 
+        "pob_ext_i": 3926
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 60959, 
+        "c_comarca": "6", 
+        "d_comarca": "HOYA DE HUESCA/PLANA DE UESCA", 
+        "pob_ext_i": 7033
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 22031, 
+        "c_comarca": "7", 
+        "d_comarca": "SOMONTANO DE BARBASTRO", 
+        "pob_ext_i": 2350
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 20858, 
+        "c_comarca": "8", 
+        "d_comarca": "CINCA MEDIO", 
+        "pob_ext_i": 3149
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 16926, 
+        "c_comarca": "9", 
+        "d_comarca": "LA LITERA/LA LLITERA", 
+        "pob_ext_i": 2365
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 19330, 
+        "c_comarca": "10", 
+        "d_comarca": "LOS MONEGROS", 
+        "pob_ext_i": 1900
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 20666, 
+        "c_comarca": "11", 
+        "d_comarca": "BAJO CINCA/BAIX CINCA", 
+        "pob_ext_i": 3997
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 13566, 
+        "c_comarca": "12", 
+        "d_comarca": "TARAZONA Y EL MONCAYO", 
+        "pob_ext_i": 1259
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 13464, 
+        "c_comarca": "13", 
+        "d_comarca": "CAMPO DE BORJA", 
+        "pob_ext_i": 2157
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 7078, 
+        "c_comarca": "14", 
+        "d_comarca": "ARANDA", 
+        "pob_ext_i": 618
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 24666, 
+        "c_comarca": "15", 
+        "d_comarca": "RIBERA ALTA DEL EBRO", 
+        "pob_ext_i": 3144
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 24072, 
+        "c_comarca": "16", 
+        "d_comarca": "VALDEJAL\u00d3N", 
+        "pob_ext_i": 6308
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 647976, 
+        "c_comarca": "17", 
+        "d_comarca": "D.C. ZARAGOZA", 
+        "pob_ext_i": 95304
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 8670, 
+        "c_comarca": "18", 
+        "d_comarca": "RIBERA BAJA DEL EBRO", 
+        "pob_ext_i": 663
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 12169, 
+        "c_comarca": "19", 
+        "d_comarca": "BAJO ARAG\u00d3N-CASPE/BAIX ARAG\u00d3-CASP", 
+        "pob_ext_i": 2606
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 35412, 
+        "c_comarca": "20", 
+        "d_comarca": "COMUNIDAD DE CALATAYUD", 
+        "pob_ext_i": 6907
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 8905, 
+        "c_comarca": "21", 
+        "d_comarca": "CAMPO DE CARI\u00d1ENA", 
+        "pob_ext_i": 2309
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 4986, 
+        "c_comarca": "22", 
+        "d_comarca": "CAMPO DE BELCHITE", 
+        "pob_ext_i": 302
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 6584, 
+        "c_comarca": "23", 
+        "d_comarca": "BAJO MART\u00cdN", 
+        "pob_ext_i": 641
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 5856, 
+        "c_comarca": "24", 
+        "d_comarca": "CAMPO DE DAROCA", 
+        "pob_ext_i": 466
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 12357, 
+        "c_comarca": "25", 
+        "d_comarca": "JILOCA", 
+        "pob_ext_i": 2085
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 8308, 
+        "c_comarca": "26", 
+        "d_comarca": "CUENCAS MINERAS", 
+        "pob_ext_i": 961
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 10257, 
+        "c_comarca": "27", 
+        "d_comarca": "ANDORRA-SIERRA DE ARCOS", 
+        "pob_ext_i": 1344
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 26037, 
+        "c_comarca": "28", 
+        "d_comarca": "BAJO ARAG\u00d3N", 
+        "pob_ext_i": 4333
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 42008, 
+        "c_comarca": "29", 
+        "d_comarca": "COMUNIDAD DE TERUEL", 
+        "pob_ext_i": 5353
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 3320, 
+        "c_comarca": "30", 
+        "d_comarca": "MAESTRAZGO", 
+        "pob_ext_i": 460
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 4501, 
+        "c_comarca": "31", 
+        "d_comarca": "SIERRA DE ALBARRAC\u00cdN", 
+        "pob_ext_i": 467
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 7169, 
+        "c_comarca": "32", 
+        "d_comarca": "G\u00daDAR-JAVALAMBRE", 
+        "pob_ext_i": 1623
+    }, 
+    {
+        "anyo": "2009", 
+        "pob_nac_i": 7841, 
+        "c_comarca": "33", 
+        "d_comarca": "MATARRA\u00d1A/MATARRANYA", 
+        "pob_ext_i": 1102
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 16984, 
+        "c_comarca": "1", 
+        "d_comarca": "LA JACETANIA", 
+        "pob_ext_i": 1680
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 12549, 
+        "c_comarca": "2", 
+        "d_comarca": "ALTO G\u00c1LLEGO", 
+        "pob_ext_i": 2372
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 6712, 
+        "c_comarca": "3", 
+        "d_comarca": "SOBRARBE", 
+        "pob_ext_i": 1006
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 11525, 
+        "c_comarca": "4", 
+        "d_comarca": "LA RIBAGORZA", 
+        "pob_ext_i": 1948
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 29375, 
+        "c_comarca": "5", 
+        "d_comarca": "CINCO VILLAS", 
+        "pob_ext_i": 3956
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 61303, 
+        "c_comarca": "6", 
+        "d_comarca": "HOYA DE HUESCA/PLANA DE UESCA", 
+        "pob_ext_i": 7125
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 21931, 
+        "c_comarca": "7", 
+        "d_comarca": "SOMONTANO DE BARBASTRO", 
+        "pob_ext_i": 2479
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 20791, 
+        "c_comarca": "8", 
+        "d_comarca": "CINCA MEDIO", 
+        "pob_ext_i": 3260
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 16777, 
+        "c_comarca": "9", 
+        "d_comarca": "LA LITERA/LA LLITERA", 
+        "pob_ext_i": 2384
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 19054, 
+        "c_comarca": "10", 
+        "d_comarca": "LOS MONEGROS", 
+        "pob_ext_i": 1888
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 20509, 
+        "c_comarca": "11", 
+        "d_comarca": "BAJO CINCA/BAIX CINCA", 
+        "pob_ext_i": 4161
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 13473, 
+        "c_comarca": "12", 
+        "d_comarca": "TARAZONA Y EL MONCAYO", 
+        "pob_ext_i": 1257
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 13315, 
+        "c_comarca": "13", 
+        "d_comarca": "CAMPO DE BORJA", 
+        "pob_ext_i": 2202
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 6971, 
+        "c_comarca": "14", 
+        "d_comarca": "ARANDA", 
+        "pob_ext_i": 646
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 24673, 
+        "c_comarca": "15", 
+        "d_comarca": "RIBERA ALTA DEL EBRO", 
+        "pob_ext_i": 3154
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 24116, 
+        "c_comarca": "16", 
+        "d_comarca": "VALDEJAL\u00d3N", 
+        "pob_ext_i": 6417
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 651072, 
+        "c_comarca": "17", 
+        "d_comarca": "D.C. ZARAGOZA", 
+        "pob_ext_i": 95647
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 8681, 
+        "c_comarca": "18", 
+        "d_comarca": "RIBERA BAJA DEL EBRO", 
+        "pob_ext_i": 771
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 12165, 
+        "c_comarca": "19", 
+        "d_comarca": "BAJO ARAG\u00d3N-CASPE/BAIX ARAG\u00d3-CASP", 
+        "pob_ext_i": 2851
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 34908, 
+        "c_comarca": "20", 
+        "d_comarca": "COMUNIDAD DE CALATAYUD", 
+        "pob_ext_i": 7105
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 8841, 
+        "c_comarca": "21", 
+        "d_comarca": "CAMPO DE CARI\u00d1ENA", 
+        "pob_ext_i": 2332
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 4932, 
+        "c_comarca": "22", 
+        "d_comarca": "CAMPO DE BELCHITE", 
+        "pob_ext_i": 328
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 6508, 
+        "c_comarca": "23", 
+        "d_comarca": "BAJO MART\u00cdN", 
+        "pob_ext_i": 627
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 5709, 
+        "c_comarca": "24", 
+        "d_comarca": "CAMPO DE DAROCA", 
+        "pob_ext_i": 483
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 12219, 
+        "c_comarca": "25", 
+        "d_comarca": "JILOCA", 
+        "pob_ext_i": 1923
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 8178, 
+        "c_comarca": "26", 
+        "d_comarca": "CUENCAS MINERAS", 
+        "pob_ext_i": 916
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 10184, 
+        "c_comarca": "27", 
+        "d_comarca": "ANDORRA-SIERRA DE ARCOS", 
+        "pob_ext_i": 1339
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 25996, 
+        "c_comarca": "28", 
+        "d_comarca": "BAJO ARAG\u00d3N", 
+        "pob_ext_i": 4315
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 41984, 
+        "c_comarca": "29", 
+        "d_comarca": "COMUNIDAD DE TERUEL", 
+        "pob_ext_i": 4973
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 3261, 
+        "c_comarca": "30", 
+        "d_comarca": "MAESTRAZGO", 
+        "pob_ext_i": 421
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 4470, 
+        "c_comarca": "31", 
+        "d_comarca": "SIERRA DE ALBARRAC\u00cdN", 
+        "pob_ext_i": 460
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 7089, 
+        "c_comarca": "32", 
+        "d_comarca": "G\u00daDAR-JAVALAMBRE", 
+        "pob_ext_i": 1521
+    }, 
+    {
+        "anyo": "2010", 
+        "pob_nac_i": 7754, 
+        "c_comarca": "33", 
+        "d_comarca": "MATARRA\u00d1A/MATARRANYA", 
+        "pob_ext_i": 1139
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 17172, 
+        "c_comarca": "1", 
+        "d_comarca": "LA JACETANIA", 
+        "pob_ext_i": 1537
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 12499, 
+        "c_comarca": "2", 
+        "d_comarca": "ALTO G\u00c1LLEGO", 
+        "pob_ext_i": 2321
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 6718, 
+        "c_comarca": "3", 
+        "d_comarca": "SOBRARBE", 
+        "pob_ext_i": 1072
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 11471, 
+        "c_comarca": "4", 
+        "d_comarca": "LA RIBAGORZA", 
+        "pob_ext_i": 1924
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 29217, 
+        "c_comarca": "5", 
+        "d_comarca": "CINCO VILLAS", 
+        "pob_ext_i": 3933
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 61363, 
+        "c_comarca": "6", 
+        "d_comarca": "HOYA DE HUESCA/PLANA DE UESCA", 
+        "pob_ext_i": 7121
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 21841, 
+        "c_comarca": "7", 
+        "d_comarca": "SOMONTANO DE BARBASTRO", 
+        "pob_ext_i": 2463
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 20795, 
+        "c_comarca": "8", 
+        "d_comarca": "CINCA MEDIO", 
+        "pob_ext_i": 3333
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 16716, 
+        "c_comarca": "9", 
+        "d_comarca": "LA LITERA/LA LLITERA", 
+        "pob_ext_i": 2419
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 18886, 
+        "c_comarca": "10", 
+        "d_comarca": "LOS MONEGROS", 
+        "pob_ext_i": 1953
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 20389, 
+        "c_comarca": "11", 
+        "d_comarca": "BAJO CINCA/BAIX CINCA", 
+        "pob_ext_i": 4220
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 13559, 
+        "c_comarca": "12", 
+        "d_comarca": "TARAZONA Y EL MONCAYO", 
+        "pob_ext_i": 1206
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 13278, 
+        "c_comarca": "13", 
+        "d_comarca": "CAMPO DE BORJA", 
+        "pob_ext_i": 2168
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 6904, 
+        "c_comarca": "14", 
+        "d_comarca": "ARANDA", 
+        "pob_ext_i": 597
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 24654, 
+        "c_comarca": "15", 
+        "d_comarca": "RIBERA ALTA DEL EBRO", 
+        "pob_ext_i": 3121
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 23994, 
+        "c_comarca": "16", 
+        "d_comarca": "VALDEJAL\u00d3N", 
+        "pob_ext_i": 6024
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 653577, 
+        "c_comarca": "17", 
+        "d_comarca": "D.C. ZARAGOZA", 
+        "pob_ext_i": 94783
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 8672, 
+        "c_comarca": "18", 
+        "d_comarca": "RIBERA BAJA DEL EBRO", 
+        "pob_ext_i": 740
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 12166, 
+        "c_comarca": "19", 
+        "d_comarca": "BAJO ARAG\u00d3N-CASPE/BAIX ARAG\u00d3-CASP", 
+        "pob_ext_i": 2911
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 34617, 
+        "c_comarca": "20", 
+        "d_comarca": "COMUNIDAD DE CALATAYUD", 
+        "pob_ext_i": 6396
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 8896, 
+        "c_comarca": "21", 
+        "d_comarca": "CAMPO DE CARI\u00d1ENA", 
+        "pob_ext_i": 2454
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 4942, 
+        "c_comarca": "22", 
+        "d_comarca": "CAMPO DE BELCHITE", 
+        "pob_ext_i": 342
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 6457, 
+        "c_comarca": "23", 
+        "d_comarca": "BAJO MART\u00cdN", 
+        "pob_ext_i": 600
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 5740, 
+        "c_comarca": "24", 
+        "d_comarca": "CAMPO DE DAROCA", 
+        "pob_ext_i": 582
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 12023, 
+        "c_comarca": "25", 
+        "d_comarca": "JILOCA", 
+        "pob_ext_i": 1914
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 8107, 
+        "c_comarca": "26", 
+        "d_comarca": "CUENCAS MINERAS", 
+        "pob_ext_i": 936
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 10031, 
+        "c_comarca": "27", 
+        "d_comarca": "ANDORRA-SIERRA DE ARCOS", 
+        "pob_ext_i": 1419
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 25941, 
+        "c_comarca": "28", 
+        "d_comarca": "BAJO ARAG\u00d3N", 
+        "pob_ext_i": 4400
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 41978, 
+        "c_comarca": "29", 
+        "d_comarca": "COMUNIDAD DE TERUEL", 
+        "pob_ext_i": 4870
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 3241, 
+        "c_comarca": "30", 
+        "d_comarca": "MAESTRAZGO", 
+        "pob_ext_i": 429
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 4515, 
+        "c_comarca": "31", 
+        "d_comarca": "SIERRA DE ALBARRAC\u00cdN", 
+        "pob_ext_i": 466
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 7078, 
+        "c_comarca": "32", 
+        "d_comarca": "G\u00daDAR-JAVALAMBRE", 
+        "pob_ext_i": 1397
+    }, 
+    {
+        "anyo": "2011", 
+        "pob_nac_i": 7663, 
+        "c_comarca": "33", 
+        "d_comarca": "MATARRA\u00d1A/MATARRANYA", 
+        "pob_ext_i": 1142
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 17044, 
+        "c_comarca": "1", 
+        "d_comarca": "LA JACETANIA", 
+        "pob_ext_i": 1493
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 12421, 
+        "c_comarca": "2", 
+        "d_comarca": "ALTO G\u00c1LLEGO", 
+        "pob_ext_i": 2220
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 6692, 
+        "c_comarca": "3", 
+        "d_comarca": "SOBRARBE", 
+        "pob_ext_i": 1120
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 11269, 
+        "c_comarca": "4", 
+        "d_comarca": "LA RIBAGORZA", 
+        "pob_ext_i": 1913
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 28750, 
+        "c_comarca": "5", 
+        "d_comarca": "CINCO VILLAS", 
+        "pob_ext_i": 3911
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 61555, 
+        "c_comarca": "6", 
+        "d_comarca": "HOYA DE HUESCA/PLANA DE UESCA", 
+        "pob_ext_i": 6631
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 21835, 
+        "c_comarca": "7", 
+        "d_comarca": "SOMONTANO DE BARBASTRO", 
+        "pob_ext_i": 2593
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 20709, 
+        "c_comarca": "8", 
+        "d_comarca": "CINCA MEDIO", 
+        "pob_ext_i": 3436
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 16587, 
+        "c_comarca": "9", 
+        "d_comarca": "LA LITERA/LA LLITERA", 
+        "pob_ext_i": 2374
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 18600, 
+        "c_comarca": "10", 
+        "d_comarca": "LOS MONEGROS", 
+        "pob_ext_i": 2033
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 20229, 
+        "c_comarca": "11", 
+        "d_comarca": "BAJO CINCA/BAIX CINCA", 
+        "pob_ext_i": 4599
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 13443, 
+        "c_comarca": "12", 
+        "d_comarca": "TARAZONA Y EL MONCAYO", 
+        "pob_ext_i": 1223
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 13149, 
+        "c_comarca": "13", 
+        "d_comarca": "CAMPO DE BORJA", 
+        "pob_ext_i": 2222
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 6776, 
+        "c_comarca": "14", 
+        "d_comarca": "ARANDA", 
+        "pob_ext_i": 636
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 24732, 
+        "c_comarca": "15", 
+        "d_comarca": "RIBERA ALTA DEL EBRO", 
+        "pob_ext_i": 3181
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 23509, 
+        "c_comarca": "16", 
+        "d_comarca": "VALDEJAL\u00d3N", 
+        "pob_ext_i": 6221
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 659262, 
+        "c_comarca": "17", 
+        "d_comarca": "D.C. ZARAGOZA", 
+        "pob_ext_i": 95618
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 8595, 
+        "c_comarca": "18", 
+        "d_comarca": "RIBERA BAJA DEL EBRO", 
+        "pob_ext_i": 754
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 11986, 
+        "c_comarca": "19", 
+        "d_comarca": "BAJO ARAG\u00d3N-CASPE/BAIX ARAG\u00d3-CASP", 
+        "pob_ext_i": 3053
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 34192, 
+        "c_comarca": "20", 
+        "d_comarca": "COMUNIDAD DE CALATAYUD", 
+        "pob_ext_i": 6707
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 8689, 
+        "c_comarca": "21", 
+        "d_comarca": "CAMPO DE CARI\u00d1ENA", 
+        "pob_ext_i": 2370
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 4836, 
+        "c_comarca": "22", 
+        "d_comarca": "CAMPO DE BELCHITE", 
+        "pob_ext_i": 352
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 6329, 
+        "c_comarca": "23", 
+        "d_comarca": "BAJO MART\u00cdN", 
+        "pob_ext_i": 613
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 5566, 
+        "c_comarca": "24", 
+        "d_comarca": "CAMPO DE DAROCA", 
+        "pob_ext_i": 653
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 11839, 
+        "c_comarca": "25", 
+        "d_comarca": "JILOCA", 
+        "pob_ext_i": 1858
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 7948, 
+        "c_comarca": "26", 
+        "d_comarca": "CUENCAS MINERAS", 
+        "pob_ext_i": 946
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 9869, 
+        "c_comarca": "27", 
+        "d_comarca": "ANDORRA-SIERRA DE ARCOS", 
+        "pob_ext_i": 1430
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 25768, 
+        "c_comarca": "28", 
+        "d_comarca": "BAJO ARAG\u00d3N", 
+        "pob_ext_i": 4312
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 41992, 
+        "c_comarca": "29", 
+        "d_comarca": "COMUNIDAD DE TERUEL", 
+        "pob_ext_i": 5231
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 3169, 
+        "c_comarca": "30", 
+        "d_comarca": "MAESTRAZGO", 
+        "pob_ext_i": 433
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 4473, 
+        "c_comarca": "31", 
+        "d_comarca": "SIERRA DE ALBARRAC\u00cdN", 
+        "pob_ext_i": 457
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 6980, 
+        "c_comarca": "32", 
+        "d_comarca": "G\u00daDAR-JAVALAMBRE", 
+        "pob_ext_i": 1348
+    }, 
+    {
+        "anyo": "2012", 
+        "pob_nac_i": 7563, 
+        "c_comarca": "33", 
+        "d_comarca": "MATARRA\u00d1A/MATARRANYA", 
+        "pob_ext_i": 1170
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 17041, 
+        "c_comarca": "1", 
+        "d_comarca": "LA JACETANIA", 
+        "pob_ext_i": 1380
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 12303, 
+        "c_comarca": "2", 
+        "d_comarca": "ALTO G\u00c1LLEGO", 
+        "pob_ext_i": 2144
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 6625, 
+        "c_comarca": "3", 
+        "d_comarca": "SOBRARBE", 
+        "pob_ext_i": 1096
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 11044, 
+        "c_comarca": "4", 
+        "d_comarca": "LA RIBAGORZA", 
+        "pob_ext_i": 1898
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 28379, 
+        "c_comarca": "5", 
+        "d_comarca": "CINCO VILLAS", 
+        "pob_ext_i": 3695
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 61748, 
+        "c_comarca": "6", 
+        "d_comarca": "HOYA DE HUESCA/PLANA DE UESCA", 
+        "pob_ext_i": 6532
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 21748, 
+        "c_comarca": "7", 
+        "d_comarca": "SOMONTANO DE BARBASTRO", 
+        "pob_ext_i": 2363
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 20676, 
+        "c_comarca": "8", 
+        "d_comarca": "CINCA MEDIO", 
+        "pob_ext_i": 3540
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 16485, 
+        "c_comarca": "9", 
+        "d_comarca": "LA LITERA/LA LLITERA", 
+        "pob_ext_i": 2329
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 18203, 
+        "c_comarca": "10", 
+        "d_comarca": "LOS MONEGROS", 
+        "pob_ext_i": 1969
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 20009, 
+        "c_comarca": "11", 
+        "d_comarca": "BAJO CINCA/BAIX CINCA", 
+        "pob_ext_i": 4791
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 13303, 
+        "c_comarca": "12", 
+        "d_comarca": "TARAZONA Y EL MONCAYO", 
+        "pob_ext_i": 1168
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 12941, 
+        "c_comarca": "13", 
+        "d_comarca": "CAMPO DE BORJA", 
+        "pob_ext_i": 2030
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 6677, 
+        "c_comarca": "14", 
+        "d_comarca": "ARANDA", 
+        "pob_ext_i": 591
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 24752, 
+        "c_comarca": "15", 
+        "d_comarca": "RIBERA ALTA DEL EBRO", 
+        "pob_ext_i": 3013
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 23236, 
+        "c_comarca": "16", 
+        "d_comarca": "VALDEJAL\u00d3N", 
+        "pob_ext_i": 6293
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 660614, 
+        "c_comarca": "17", 
+        "d_comarca": "D.C. ZARAGOZA", 
+        "pob_ext_i": 97766
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 8501, 
+        "c_comarca": "18", 
+        "d_comarca": "RIBERA BAJA DEL EBRO", 
+        "pob_ext_i": 722
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 11956, 
+        "c_comarca": "19", 
+        "d_comarca": "BAJO ARAG\u00d3N-CASPE/BAIX ARAG\u00d3-CASP", 
+        "pob_ext_i": 3052
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 33622, 
+        "c_comarca": "20", 
+        "d_comarca": "COMUNIDAD DE CALATAYUD", 
+        "pob_ext_i": 6711
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 8552, 
+        "c_comarca": "21", 
+        "d_comarca": "CAMPO DE CARI\u00d1ENA", 
+        "pob_ext_i": 2250
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 4746, 
+        "c_comarca": "22", 
+        "d_comarca": "CAMPO DE BELCHITE", 
+        "pob_ext_i": 347
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 6200, 
+        "c_comarca": "23", 
+        "d_comarca": "BAJO MART\u00cdN", 
+        "pob_ext_i": 568
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 5446, 
+        "c_comarca": "24", 
+        "d_comarca": "CAMPO DE DAROCA", 
+        "pob_ext_i": 680
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 11658, 
+        "c_comarca": "25", 
+        "d_comarca": "JILOCA", 
+        "pob_ext_i": 1777
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 7855, 
+        "c_comarca": "26", 
+        "d_comarca": "CUENCAS MINERAS", 
+        "pob_ext_i": 980
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 9735, 
+        "c_comarca": "27", 
+        "d_comarca": "ANDORRA-SIERRA DE ARCOS", 
+        "pob_ext_i": 1378
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 25612, 
+        "c_comarca": "28", 
+        "d_comarca": "BAJO ARAG\u00d3N", 
+        "pob_ext_i": 4263
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 41993, 
+        "c_comarca": "29", 
+        "d_comarca": "COMUNIDAD DE TERUEL", 
+        "pob_ext_i": 5192
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 3075, 
+        "c_comarca": "30", 
+        "d_comarca": "MAESTRAZGO", 
+        "pob_ext_i": 389
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 4408, 
+        "c_comarca": "31", 
+        "d_comarca": "SIERRA DE ALBARRAC\u00cdN", 
+        "pob_ext_i": 375
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 6854, 
+        "c_comarca": "32", 
+        "d_comarca": "G\u00daDAR-JAVALAMBRE", 
+        "pob_ext_i": 1241
+    }, 
+    {
+        "anyo": "2013", 
+        "pob_nac_i": 7500, 
+        "c_comarca": "33", 
+        "d_comarca": "MATARRA\u00d1A/MATARRANYA", 
+        "pob_ext_i": 1130
+    }
+]
