@@ -3,7 +3,8 @@
  * Aragón, por provincias, comarcas o municipios, y que opcionalmente
  * puede marcar los colegios.
  *
- * Para crear un mapa, basta con poner un 'div' con clase 'mapa'. Eso
+ * Para crear un mapa, basta con poner un 'div' con clase 'mapa' y
+ * llamar en un <script> posterior a MapaAragon.dibujarMapas(). Eso
  * creará un mapa de Aragón entero. Se puede concretar con:
  *
  * - data-w: ancho en px
@@ -11,9 +12,14 @@
  * - data-clip: si 'false' no se recorta por el contorno
  * - data-provincia: nombre de la provincia para enfocar y filtrar
  * - data-codcomarca: código de la comarca para enfocar y filtrar
+ *
+ * También se puede poner un callback para hacer más cosas con cada
+ * mapa dibujado.
  */
 
-(function() {
+var MapaAragon = (function() {
+    var self = {};
+
     function arrayToObject(a) {
 	var o = {};
 	for (var i = 0; i < a.length; i++) {
@@ -26,7 +32,7 @@
       Dibuja un mapa estático y devuelve un objeto con una serie de
       atributos útiles para retoques posteriores.
      */
-    function dibujarMapa(elem, json_aragon, json_colegios) {
+    self.dibujarMapa = function(elem, json_aragon, json_colegios) {
 	var w = parseInt(elem.attr("data-w")) || 400, h = parseInt(elem.attr("data-h")) || 400;
 	var clip = elem.attr("data-clip") != "false";
 
@@ -138,17 +144,27 @@
 	};
     }
 
-    d3.json("json/aragon.topojson", function (error, json_aragon) {
-	if (error) return console.log('Error cargando TopoJSON', error);
+    self.dibujarMapas = function(callback) {
+	d3.json("json/aragon.topojson", function (error, json_aragon) {
+	    if (error) return console.log('Error cargando TopoJSON', error);
 
-	d3.json("json/colegios.json", function (error, json_colegios) {
-	    if (error) return console.log('Error cargando colegios', error);
+	    d3.json("json/colegios.json", function (error, json_colegios) {
+		if (error) return console.log('Error cargando colegios', error);
 
-	    var mapas = d3.selectAll(".mapa")[0];
-	    for (var i = 0; i < mapas.length; i++) {
-		dibujarMapa(d3.select(mapas[i]), json_aragon, json_colegios);
-	    }
+		var mapas = d3.selectAll(".mapa")[0];
+		for (var i = 0; i < mapas.length; i++) {
+		    var r = MapaAragon.dibujarMapa(
+			d3.select(mapas[i]),
+			json_aragon,
+			json_colegios
+		    );
+		    if (callback) {
+			callback(r);
+		    }
+		}
+	    });
 	});
-    });
+    };
 
+    return self;
 })();
