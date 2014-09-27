@@ -1,7 +1,7 @@
 DNlab
 =====
 
-El presente trabajo se compone de varias visualizaciones interactivas que ilustran la evolución de la población y del alumnado en Aragón durante la última década. A través de las herramientas [Google Fusion Tables](http://tables.googlelabs.com), [CartoDB](http://cartodb.com/), [Google Maps](http://maps.google.com), [MapQuest](http://developer.mapquest.com/) y [D3.js](http://d3js.org/), se realizaron fusiones de datos y proyecciones que permiten detallar la información de la Comunidad Autónoma por comarcas y año, comprendidos entre 2004 y 2013.
+El presente trabajo se compone de varias visualizaciones interactivas que ilustran la evolución de la población y del alumnado en Aragón durante la última década. A través de las herramientas [Google Fusion Tables](http://tables.googlelabs.com), [CartoDB](http://cartodb.com/), [Google Maps](http://maps.google.com), [MapQuest](http://developer.mapquest.com/), [D3.js](http://d3js.org/) y [C3.js](http://c3js.org/), se realizaron fusiones de datos y proyecciones que permiten detallar la información de la Comunidad Autónoma por comarcas y año, comprendidos entre 2004 y 2013.
 
 La recopilación de datos se realizó de diversos recursos, principalmente de Aragón Open Data, el Instituto Aragonés de Estadísticas, el portal www.demografia.zaragoza.es y el Patronato Municipal de Educación y Bibliotecas de Zaragoza.
 
