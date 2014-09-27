@@ -1,6 +1,9 @@
 #!/usr/bin/python
 # -*- encoding: utf-8 -*-
 
+# Pequeña utilidad que convierte un CSV a JSON.
+# Si un campo acaba en _i, lo pasa a entero.
+
 from csv import DictReader
 import json
 
@@ -10,6 +13,9 @@ def convertir(ruta):
     csv = DictReader(f_csv)
     json = []
     for row in csv:
+      for k, v in row.items():
+        if k.endswith("_i"):
+          row[k] = int(v)
       json.append(row)
     return json
 
