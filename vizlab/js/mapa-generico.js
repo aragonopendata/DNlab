@@ -22,6 +22,10 @@
 	return o;
     }
 
+    /*
+      Dibuja un mapa estático y devuelve un objeto con una serie de
+      atributos útiles para retoques posteriores.
+     */
     function dibujarMapa(elem, json_aragon, json_colegios) {
 	var w = parseInt(elem.attr("data-w")) || 400, h = parseInt(elem.attr("data-h")) || 400;
 	var clip = elem.attr("data-clip") != "false";
@@ -120,6 +124,18 @@
 		.on("click", function (d) { console.log(d); })
 	    ;
 	}
+
+	return {
+	    'svg': svg,
+	    'aragon': aragon,
+	    'provincias': provincias,
+	    'comarcas': comarcas,
+	    'municipios': municipios,
+	    'enfoque': enfoque,
+	    'projection': projection,
+	    'json_colegios': json_colegios,
+	    'json_aragon': json_aragon,
+	};
     }
 
     d3.json("json/aragon.topojson", function (error, json_aragon) {
