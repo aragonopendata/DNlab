@@ -83,13 +83,13 @@
 		}
 
 		if ('Pública' == d.titularidad) {
-		    datosFiltrados[y].pub = n;
+		    datosFiltrados[y].pub += n;
 		}
 		else if ('Privado concertado' == d.titularidad) {
-		    datosFiltrados[y].priC = n;
+		    datosFiltrados[y].priC += n;
 		}
 		else {
-		    datosFiltrados[y].priNC = n;
+		    datosFiltrados[y].priNC += n;
 		}
 	    }
 
