@@ -5,6 +5,13 @@
 import csv, codecs, cStringIO
 import json
 
+# Leemos el fichero de comarcas
+comarcas = {}
+with open("../poblaciones_por_comarca.csv") as f_com:
+    com_csv = csv.DictReader(f_com)
+    for row in com_csv:
+        comarcas[row["localidad"]] = {"c_comarca": row["c_comarca"], "d_comarca": row["d_comarca"]}
+
 # Leemos el fichero de Google Maps
 gmaps = {}
 with open("colegiosConGeocodeGMaps.csv") as f_gmaps:
@@ -79,7 +86,9 @@ for codigo in codigos:
         "origen": src,
         "calidad": quality,
         "provincia": prov,
-        "localidad": loc
+        "localidad": loc,
+        "c_comarca": comarcas[loc]["c_comarca"],
+        "d_comarca": comarcas[loc]["d_comarca"],
     })
 
-print json.dumps(unidos)
+print json.dumps(unidos, indent=4)

@@ -1,0 +1,17 @@
+svg {
+    border: 1px solid black;
+}
+
+.comarcas path {
+    stroke-width: 2;
+    stroke: blue;
+    fill: lightBlue;
+}
+
+.comarcas path:hover { fill: green; }
+
+.colegios circle {
+    fill: yellow;
+    stroke: orange;
+    stroke-width: 1;
+}
