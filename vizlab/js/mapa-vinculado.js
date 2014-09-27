@@ -20,12 +20,25 @@
 	var anyos;
 	self.actualizarDatosComarca = function(codComarca) {
 	    var datosComarca = json_pob
-		.filter(function (e) { return e.c_comarca == codComarca; })
-		.sort(function (a, b) { return parseInt(a.anyo) - parseInt(b.anyo); });
+	    if (typeof codComarca !== 'undefined') {
+		datosComarca = datosComarca.filter(function (e) { return e.c_comarca == codComarca; });
+	    }
 
-	    anyos = datosComarca.map(function (e) { return e.anyo; });
-	    colNac = ['Nacionales'].concat(datosComarca.map(function (e) { return e.pob_nac_i; }));
-	    colExt = ['Extranjeros'].concat(datosComarca.map(function (e) { return e.pob_ext_i; }));
+	    anyos = sort_unique(datosComarca.map(function (e) { return parseInt(e.anyo); }));
+	    datosFiltrados = {};
+	    for (var i = 0; i < anyos.length; i++) {
+		datosFiltrados[anyos[i]] = {nac: 0, ext: 0};
+	    }
+	    for (var i = 0; i < datosComarca.length; i++) {
+		var d = datosComarca[i];
+		var y = d.anyo;
+
+		datosFiltrados[y].nac += d.pob_nac_i;
+		datosFiltrados[y].ext += d.pob_ext_i;
+	    }
+
+	    colNac = ['Nacionales'].concat(anyos.map(function (y) { return datosFiltrados[y].nac; }));
+	    colExt = ['Extranjeros'].concat(anyos.map(function (y) { return datosFiltrados[y].ext; }));
 	}
 
 	var chart;
@@ -64,9 +77,11 @@
 	var anyos;
 	self.actualizarDatosComarca = function(codComarca) {
 	    // Filtrar por comarca y ordenar por año
-	    var datosComarca = json_alum
-		.filter(function (e) { return e.codigo == codComarca; })
-		.sort(function (a, b) { return parseInt(a.anyo) - parseInt(b.anyo); });
+	    var datosComarca = json_alum;
+
+	    if (typeof codComarca !== 'undefined') {
+		datosComarca = datosComarca.filter(function (e) { return e.codigo == codComarca; })
+	    }
 
 	    anyos = sort_unique(datosComarca.map(function (e) { return parseInt(e.anyo); }));
 	    datosFiltrados = {};
@@ -77,10 +92,6 @@
 		var d = datosComarca[i];
 		var y = d.anyo;
 		var n = d.alumnado_i;
-
-		if (!y) {
-		    continue;
-		}
 
 		if ('Pública' == d.titularidad) {
 		    datosFiltrados[y].pub += n;
@@ -137,8 +148,8 @@
 		    var gp = GraficaPob(json_pob);
 		    var ga = GraficaAlum(json_alum);
 
-		    gp.actualizarDatosComarca(17);
-		    ga.actualizarDatosComarca(17);
+		    gp.actualizarDatosComarca();
+		    ga.actualizarDatosComarca();
 		    gp.crearGrafica();
 		    ga.crearGrafica();
 
