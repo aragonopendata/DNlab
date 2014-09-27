@@ -1,0 +1,4082 @@
+[
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado concertado", 
+        "codigo": "29", 
+        "alumnado_i": 912
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "1", 
+        "alumnado_i": 139
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "2", 
+        "alumnado_i": 37
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "3", 
+        "alumnado_i": 24
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "5", 
+        "alumnado_i": 21
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "6", 
+        "alumnado_i": 561
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "7", 
+        "alumnado_i": 201
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "8", 
+        "alumnado_i": 150
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "11", 
+        "alumnado_i": 185
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "12", 
+        "alumnado_i": 190
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "13", 
+        "alumnado_i": 32
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "15", 
+        "alumnado_i": 51
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "16", 
+        "alumnado_i": 279
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "17", 
+        "alumnado_i": 15800
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "19", 
+        "alumnado_i": 84
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "20", 
+        "alumnado_i": 69
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "22", 
+        "alumnado_i": 30
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado concertado", 
+        "codigo": "1", 
+        "alumnado_i": 494
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado concertado", 
+        "codigo": "2", 
+        "alumnado_i": 79
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado concertado", 
+        "codigo": "4", 
+        "alumnado_i": 43
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado concertado", 
+        "codigo": "5", 
+        "alumnado_i": 180
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado concertado", 
+        "codigo": "6", 
+        "alumnado_i": 1105
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado concertado", 
+        "codigo": "7", 
+        "alumnado_i": 377
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado concertado", 
+        "codigo": "8", 
+        "alumnado_i": 1034
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado concertado", 
+        "codigo": "9", 
+        "alumnado_i": 197
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado concertado", 
+        "codigo": "11", 
+        "alumnado_i": 151
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado concertado", 
+        "codigo": "12", 
+        "alumnado_i": 359
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado concertado", 
+        "codigo": "13", 
+        "alumnado_i": 250
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado concertado", 
+        "codigo": "15", 
+        "alumnado_i": 329
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado concertado", 
+        "codigo": "16", 
+        "alumnado_i": 40
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado concertado", 
+        "codigo": "17", 
+        "alumnado_i": 20634
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado concertado", 
+        "codigo": "18", 
+        "alumnado_i": 217
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado concertado", 
+        "codigo": "19", 
+        "alumnado_i": 97
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado concertado", 
+        "codigo": "20", 
+        "alumnado_i": 479
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado concertado", 
+        "codigo": "28", 
+        "alumnado_i": 263
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "16", 
+        "alumnado_i": 2533
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "17", 
+        "alumnado_i": 38432
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "18", 
+        "alumnado_i": 471
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "19", 
+        "alumnado_i": 1409
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "20", 
+        "alumnado_i": 3310
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "21", 
+        "alumnado_i": 627
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "22", 
+        "alumnado_i": 256
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "23", 
+        "alumnado_i": 516
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "24", 
+        "alumnado_i": 443
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "25", 
+        "alumnado_i": 907
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "26", 
+        "alumnado_i": 411
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "27", 
+        "alumnado_i": 779
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "28", 
+        "alumnado_i": 2715
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "29", 
+        "alumnado_i": 3301
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "30", 
+        "alumnado_i": 286
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "31", 
+        "alumnado_i": 233
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "32", 
+        "alumnado_i": 449
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "33", 
+        "alumnado_i": 597
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "25", 
+        "alumnado_i": 30
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "28", 
+        "alumnado_i": 106
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "29", 
+        "alumnado_i": 325
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "1", 
+        "alumnado_i": 1402
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "2", 
+        "alumnado_i": 1284
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "3", 
+        "alumnado_i": 425
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "4", 
+        "alumnado_i": 603
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "5", 
+        "alumnado_i": 2680
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "6", 
+        "alumnado_i": 5204
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "15", 
+        "alumnado_i": 1779
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "14", 
+        "alumnado_i": 553
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "13", 
+        "alumnado_i": 951
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "12", 
+        "alumnado_i": 1027
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "11", 
+        "alumnado_i": 2064
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "10", 
+        "alumnado_i": 1410
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "9", 
+        "alumnado_i": 1002
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "8", 
+        "alumnado_i": 1823
+    }, 
+    {
+        "anyo": "2004", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "7", 
+        "alumnado_i": 2149
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado concertado", 
+        "codigo": "29", 
+        "alumnado_i": 531
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "1", 
+        "alumnado_i": 610
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "3", 
+        "alumnado_i": 10
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "5", 
+        "alumnado_i": 24
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "6", 
+        "alumnado_i": 863
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "7", 
+        "alumnado_i": 104
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "8", 
+        "alumnado_i": 243
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "11", 
+        "alumnado_i": 123
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "12", 
+        "alumnado_i": 17
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "15", 
+        "alumnado_i": 22
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "16", 
+        "alumnado_i": 20
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "17", 
+        "alumnado_i": 13709
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "18", 
+        "alumnado_i": 54
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "19", 
+        "alumnado_i": 9
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "20", 
+        "alumnado_i": 350
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "22", 
+        "alumnado_i": 5
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "25", 
+        "alumnado_i": 30
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado concertado", 
+        "codigo": "1", 
+        "alumnado_i": 60
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado concertado", 
+        "codigo": "2", 
+        "alumnado_i": 59
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado concertado", 
+        "codigo": "4", 
+        "alumnado_i": 86
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado concertado", 
+        "codigo": "5", 
+        "alumnado_i": 300
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado concertado", 
+        "codigo": "6", 
+        "alumnado_i": 927
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado concertado", 
+        "codigo": "7", 
+        "alumnado_i": 401
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado concertado", 
+        "codigo": "8", 
+        "alumnado_i": 502
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado concertado", 
+        "codigo": "9", 
+        "alumnado_i": 208
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado concertado", 
+        "codigo": "11", 
+        "alumnado_i": 602
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado concertado", 
+        "codigo": "12", 
+        "alumnado_i": 287
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado concertado", 
+        "codigo": "13", 
+        "alumnado_i": 256
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado concertado", 
+        "codigo": "15", 
+        "alumnado_i": 348
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado concertado", 
+        "codigo": "16", 
+        "alumnado_i": 107
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado concertado", 
+        "codigo": "17", 
+        "alumnado_i": 25124
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado concertado", 
+        "codigo": "18", 
+        "alumnado_i": 76
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado concertado", 
+        "codigo": "19", 
+        "alumnado_i": 159
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado concertado", 
+        "codigo": "20", 
+        "alumnado_i": 226
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado concertado", 
+        "codigo": "28", 
+        "alumnado_i": 514
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "17", 
+        "alumnado_i": 39673
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "18", 
+        "alumnado_i": 415
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "19", 
+        "alumnado_i": 1106
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "20", 
+        "alumnado_i": 3002
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "21", 
+        "alumnado_i": 690
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "22", 
+        "alumnado_i": 257
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "23", 
+        "alumnado_i": 465
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "24", 
+        "alumnado_i": 467
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "25", 
+        "alumnado_i": 922
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "26", 
+        "alumnado_i": 852
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "27", 
+        "alumnado_i": 544
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "28", 
+        "alumnado_i": 2761
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "29", 
+        "alumnado_i": 3344
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "30", 
+        "alumnado_i": 205
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "31", 
+        "alumnado_i": 257
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "32", 
+        "alumnado_i": 633
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "33", 
+        "alumnado_i": 524
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "28", 
+        "alumnado_i": 122
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "29", 
+        "alumnado_i": 324
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "1", 
+        "alumnado_i": 1527
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "2", 
+        "alumnado_i": 1420
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "3", 
+        "alumnado_i": 517
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "4", 
+        "alumnado_i": 1035
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "5", 
+        "alumnado_i": 3324
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "6", 
+        "alumnado_i": 4652
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "7", 
+        "alumnado_i": 1775
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "16", 
+        "alumnado_i": 2129
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "15", 
+        "alumnado_i": 2298
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "14", 
+        "alumnado_i": 960
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "13", 
+        "alumnado_i": 1310
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "12", 
+        "alumnado_i": 1225
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "11", 
+        "alumnado_i": 1471
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "10", 
+        "alumnado_i": 1175
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "9", 
+        "alumnado_i": 1911
+    }, 
+    {
+        "anyo": "2005", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "8", 
+        "alumnado_i": 1770
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado concertado", 
+        "codigo": "28", 
+        "alumnado_i": 357
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado concertado", 
+        "codigo": "29", 
+        "alumnado_i": 1094
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "3", 
+        "alumnado_i": 6
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "4", 
+        "alumnado_i": 13
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "5", 
+        "alumnado_i": 30
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "6", 
+        "alumnado_i": 787
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "7", 
+        "alumnado_i": 372
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "8", 
+        "alumnado_i": 25
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "11", 
+        "alumnado_i": 48
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "12", 
+        "alumnado_i": 23
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "15", 
+        "alumnado_i": 34
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "16", 
+        "alumnado_i": 38
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "17", 
+        "alumnado_i": 13991
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "18", 
+        "alumnado_i": 55
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "20", 
+        "alumnado_i": 205
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "22", 
+        "alumnado_i": 34
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "28", 
+        "alumnado_i": 72
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado concertado", 
+        "codigo": "1", 
+        "alumnado_i": 736
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado concertado", 
+        "codigo": "2", 
+        "alumnado_i": 121
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado concertado", 
+        "codigo": "4", 
+        "alumnado_i": 75
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado concertado", 
+        "codigo": "5", 
+        "alumnado_i": 149
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado concertado", 
+        "codigo": "6", 
+        "alumnado_i": 1579
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado concertado", 
+        "codigo": "7", 
+        "alumnado_i": 105
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado concertado", 
+        "codigo": "8", 
+        "alumnado_i": 863
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado concertado", 
+        "codigo": "9", 
+        "alumnado_i": 210
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado concertado", 
+        "codigo": "11", 
+        "alumnado_i": 308
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado concertado", 
+        "codigo": "12", 
+        "alumnado_i": 395
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado concertado", 
+        "codigo": "13", 
+        "alumnado_i": 245
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado concertado", 
+        "codigo": "15", 
+        "alumnado_i": 139
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado concertado", 
+        "codigo": "16", 
+        "alumnado_i": 384
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado concertado", 
+        "codigo": "17", 
+        "alumnado_i": 24302
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado concertado", 
+        "codigo": "18", 
+        "alumnado_i": 159
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado concertado", 
+        "codigo": "19", 
+        "alumnado_i": 110
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado concertado", 
+        "codigo": "20", 
+        "alumnado_i": 304
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "17", 
+        "alumnado_i": 40326
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "18", 
+        "alumnado_i": 357
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "19", 
+        "alumnado_i": 1233
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "20", 
+        "alumnado_i": 2321
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "21", 
+        "alumnado_i": 586
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "22", 
+        "alumnado_i": 67
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "23", 
+        "alumnado_i": 606
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "24", 
+        "alumnado_i": 298
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "25", 
+        "alumnado_i": 893
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "26", 
+        "alumnado_i": 677
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "27", 
+        "alumnado_i": 776
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "28", 
+        "alumnado_i": 2684
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "29", 
+        "alumnado_i": 2819
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "30", 
+        "alumnado_i": 227
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "31", 
+        "alumnado_i": 241
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "32", 
+        "alumnado_i": 313
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "33", 
+        "alumnado_i": 709
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "29", 
+        "alumnado_i": 354
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "1", 
+        "alumnado_i": 1278
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "2", 
+        "alumnado_i": 1332
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "3", 
+        "alumnado_i": 530
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "4", 
+        "alumnado_i": 902
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "5", 
+        "alumnado_i": 2341
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "6", 
+        "alumnado_i": 4412
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "7", 
+        "alumnado_i": 1906
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "16", 
+        "alumnado_i": 2135
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "15", 
+        "alumnado_i": 1644
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "14", 
+        "alumnado_i": 643
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "13", 
+        "alumnado_i": 1046
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "12", 
+        "alumnado_i": 1099
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "11", 
+        "alumnado_i": 1535
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "10", 
+        "alumnado_i": 1487
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "9", 
+        "alumnado_i": 1122
+    }, 
+    {
+        "anyo": "2006", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "8", 
+        "alumnado_i": 1777
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "33", 
+        "alumnado_i": 924
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "32", 
+        "alumnado_i": 873
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "31", 
+        "alumnado_i": 282
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "30", 
+        "alumnado_i": 234
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "29", 
+        "alumnado_i": 5851
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "28", 
+        "alumnado_i": 3108
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "18", 
+        "alumnado_i": 24
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "17", 
+        "alumnado_i": 15841
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "15", 
+        "alumnado_i": 72
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "13", 
+        "alumnado_i": 118
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "11", 
+        "alumnado_i": 68
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "9", 
+        "alumnado_i": 20
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "8", 
+        "alumnado_i": 46
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "7", 
+        "alumnado_i": 126
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "6", 
+        "alumnado_i": 528
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "5", 
+        "alumnado_i": 11
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "3", 
+        "alumnado_i": 15
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "1", 
+        "alumnado_i": 112
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado concertado", 
+        "codigo": "29", 
+        "alumnado_i": 1660
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado concertado", 
+        "codigo": "28", 
+        "alumnado_i": 618
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado concertado", 
+        "codigo": "20", 
+        "alumnado_i": 434
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado concertado", 
+        "codigo": "19", 
+        "alumnado_i": 146
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado concertado", 
+        "codigo": "18", 
+        "alumnado_i": 233
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado concertado", 
+        "codigo": "17", 
+        "alumnado_i": 18735
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado concertado", 
+        "codigo": "16", 
+        "alumnado_i": 432
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado concertado", 
+        "codigo": "15", 
+        "alumnado_i": 246
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado concertado", 
+        "codigo": "13", 
+        "alumnado_i": 58
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado concertado", 
+        "codigo": "12", 
+        "alumnado_i": 431
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado concertado", 
+        "codigo": "11", 
+        "alumnado_i": 622
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado concertado", 
+        "codigo": "9", 
+        "alumnado_i": 187
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado concertado", 
+        "codigo": "8", 
+        "alumnado_i": 1210
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado concertado", 
+        "codigo": "7", 
+        "alumnado_i": 572
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado concertado", 
+        "codigo": "6", 
+        "alumnado_i": 2363
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado concertado", 
+        "codigo": "5", 
+        "alumnado_i": 265
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado concertado", 
+        "codigo": "4", 
+        "alumnado_i": 47
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado concertado", 
+        "codigo": "2", 
+        "alumnado_i": 106
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado concertado", 
+        "codigo": "1", 
+        "alumnado_i": 634
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "27", 
+        "alumnado_i": 1251
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "26", 
+        "alumnado_i": 1160
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "25", 
+        "alumnado_i": 1200
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "24", 
+        "alumnado_i": 488
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "23", 
+        "alumnado_i": 678
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "22", 
+        "alumnado_i": 341
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "21", 
+        "alumnado_i": 974
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "20", 
+        "alumnado_i": 3877
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "19", 
+        "alumnado_i": 1680
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "18", 
+        "alumnado_i": 509
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "17", 
+        "alumnado_i": 53057
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "16", 
+        "alumnado_i": 3347
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "15", 
+        "alumnado_i": 2556
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "14", 
+        "alumnado_i": 945
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "13", 
+        "alumnado_i": 1436
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "12", 
+        "alumnado_i": 1429
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "19", 
+        "alumnado_i": 148
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "20", 
+        "alumnado_i": 48
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "22", 
+        "alumnado_i": 37
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "28", 
+        "alumnado_i": 73
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "29", 
+        "alumnado_i": 249
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "1", 
+        "alumnado_i": 1789
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "2", 
+        "alumnado_i": 937
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "3", 
+        "alumnado_i": 739
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "4", 
+        "alumnado_i": 1245
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "5", 
+        "alumnado_i": 3698
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "6", 
+        "alumnado_i": 6954
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "7", 
+        "alumnado_i": 2459
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "8", 
+        "alumnado_i": 2040
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "9", 
+        "alumnado_i": 1783
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "10", 
+        "alumnado_i": 1784
+    }, 
+    {
+        "anyo": "2007", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "11", 
+        "alumnado_i": 2521
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado concertado", 
+        "codigo": "28", 
+        "alumnado_i": 628
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado concertado", 
+        "codigo": "29", 
+        "alumnado_i": 1598
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "1", 
+        "alumnado_i": 84
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "3", 
+        "alumnado_i": 19
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "5", 
+        "alumnado_i": 10
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "6", 
+        "alumnado_i": 725
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "7", 
+        "alumnado_i": 185
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "8", 
+        "alumnado_i": 61
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "9", 
+        "alumnado_i": 18
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "11", 
+        "alumnado_i": 76
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "15", 
+        "alumnado_i": 61
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "17", 
+        "alumnado_i": 13307
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "18", 
+        "alumnado_i": 38
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "20", 
+        "alumnado_i": 95
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "22", 
+        "alumnado_i": 36
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "28", 
+        "alumnado_i": 90
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado concertado", 
+        "codigo": "1", 
+        "alumnado_i": 730
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado concertado", 
+        "codigo": "2", 
+        "alumnado_i": 191
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado concertado", 
+        "codigo": "4", 
+        "alumnado_i": 76
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado concertado", 
+        "codigo": "5", 
+        "alumnado_i": 319
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado concertado", 
+        "codigo": "6", 
+        "alumnado_i": 2402
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado concertado", 
+        "codigo": "7", 
+        "alumnado_i": 584
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado concertado", 
+        "codigo": "8", 
+        "alumnado_i": 1219
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado concertado", 
+        "codigo": "9", 
+        "alumnado_i": 203
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado concertado", 
+        "codigo": "11", 
+        "alumnado_i": 614
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado concertado", 
+        "codigo": "12", 
+        "alumnado_i": 639
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado concertado", 
+        "codigo": "13", 
+        "alumnado_i": 253
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado concertado", 
+        "codigo": "15", 
+        "alumnado_i": 408
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado concertado", 
+        "codigo": "16", 
+        "alumnado_i": 435
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado concertado", 
+        "codigo": "17", 
+        "alumnado_i": 41490
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado concertado", 
+        "codigo": "18", 
+        "alumnado_i": 258
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado concertado", 
+        "codigo": "19", 
+        "alumnado_i": 322
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado concertado", 
+        "codigo": "20", 
+        "alumnado_i": 662
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "17", 
+        "alumnado_i": 61412
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "18", 
+        "alumnado_i": 716
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "19", 
+        "alumnado_i": 1760
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "20", 
+        "alumnado_i": 4324
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "21", 
+        "alumnado_i": 1204
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "22", 
+        "alumnado_i": 359
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "23", 
+        "alumnado_i": 712
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "24", 
+        "alumnado_i": 499
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "25", 
+        "alumnado_i": 1632
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "26", 
+        "alumnado_i": 1189
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "27", 
+        "alumnado_i": 1639
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "28", 
+        "alumnado_i": 4134
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "29", 
+        "alumnado_i": 6014
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "30", 
+        "alumnado_i": 360
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "31", 
+        "alumnado_i": 335
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "32", 
+        "alumnado_i": 885
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "33", 
+        "alumnado_i": 957
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "29", 
+        "alumnado_i": 393
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "1", 
+        "alumnado_i": 1968
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "2", 
+        "alumnado_i": 1817
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "3", 
+        "alumnado_i": 873
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "4", 
+        "alumnado_i": 1316
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "5", 
+        "alumnado_i": 4066
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "6", 
+        "alumnado_i": 7929
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "7", 
+        "alumnado_i": 2725
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "8", 
+        "alumnado_i": 2496
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "9", 
+        "alumnado_i": 2293
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "10", 
+        "alumnado_i": 2071
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "11", 
+        "alumnado_i": 2871
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "12", 
+        "alumnado_i": 1506
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "13", 
+        "alumnado_i": 1779
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "14", 
+        "alumnado_i": 1034
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "15", 
+        "alumnado_i": 3185
+    }, 
+    {
+        "anyo": "2008", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "16", 
+        "alumnado_i": 3880
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado concertado", 
+        "codigo": "28", 
+        "alumnado_i": 620
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado concertado", 
+        "codigo": "29", 
+        "alumnado_i": 1662
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "1", 
+        "alumnado_i": 84
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "3", 
+        "alumnado_i": 23
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "6", 
+        "alumnado_i": 757
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "7", 
+        "alumnado_i": 64
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "8", 
+        "alumnado_i": 56
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "9", 
+        "alumnado_i": 19
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "11", 
+        "alumnado_i": 74
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "15", 
+        "alumnado_i": 53
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "17", 
+        "alumnado_i": 13202
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "18", 
+        "alumnado_i": 39
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "20", 
+        "alumnado_i": 96
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "22", 
+        "alumnado_i": 32
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "28", 
+        "alumnado_i": 81
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "29", 
+        "alumnado_i": 284
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado concertado", 
+        "codigo": "1", 
+        "alumnado_i": 685
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado concertado", 
+        "codigo": "2", 
+        "alumnado_i": 188
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado concertado", 
+        "codigo": "4", 
+        "alumnado_i": 89
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado concertado", 
+        "codigo": "5", 
+        "alumnado_i": 338
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado concertado", 
+        "codigo": "6", 
+        "alumnado_i": 2392
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado concertado", 
+        "codigo": "7", 
+        "alumnado_i": 652
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado concertado", 
+        "codigo": "8", 
+        "alumnado_i": 1237
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado concertado", 
+        "codigo": "9", 
+        "alumnado_i": 188
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado concertado", 
+        "codigo": "11", 
+        "alumnado_i": 609
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado concertado", 
+        "codigo": "12", 
+        "alumnado_i": 623
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado concertado", 
+        "codigo": "13", 
+        "alumnado_i": 264
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado concertado", 
+        "codigo": "15", 
+        "alumnado_i": 416
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado concertado", 
+        "codigo": "16", 
+        "alumnado_i": 424
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado concertado", 
+        "codigo": "17", 
+        "alumnado_i": 41450
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado concertado", 
+        "codigo": "18", 
+        "alumnado_i": 267
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado concertado", 
+        "codigo": "19", 
+        "alumnado_i": 326
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "Privado concertado", 
+        "codigo": "20", 
+        "alumnado_i": 637
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "33", 
+        "alumnado_i": 933
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "32", 
+        "alumnado_i": 902
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "31", 
+        "alumnado_i": 331
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "30", 
+        "alumnado_i": 340
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "29", 
+        "alumnado_i": 6273
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "28", 
+        "alumnado_i": 4257
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "27", 
+        "alumnado_i": 1615
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "26", 
+        "alumnado_i": 1179
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "25", 
+        "alumnado_i": 1613
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "24", 
+        "alumnado_i": 480
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "23", 
+        "alumnado_i": 688
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "22", 
+        "alumnado_i": 359
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "21", 
+        "alumnado_i": 1212
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "20", 
+        "alumnado_i": 4401
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "19", 
+        "alumnado_i": 1813
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "18", 
+        "alumnado_i": 703
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "1", 
+        "alumnado_i": 2036
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "2", 
+        "alumnado_i": 1888
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "3", 
+        "alumnado_i": 879
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "4", 
+        "alumnado_i": 1339
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "5", 
+        "alumnado_i": 4107
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "6", 
+        "alumnado_i": 8295
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "7", 
+        "alumnado_i": 2697
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "8", 
+        "alumnado_i": 2516
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "17", 
+        "alumnado_i": 63850
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "16", 
+        "alumnado_i": 4009
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "15", 
+        "alumnado_i": 3262
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "14", 
+        "alumnado_i": 994
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "13", 
+        "alumnado_i": 1779
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "12", 
+        "alumnado_i": 1547
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "11", 
+        "alumnado_i": 2866
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "10", 
+        "alumnado_i": 2090
+    }, 
+    {
+        "anyo": "2009", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "9", 
+        "alumnado_i": 2340
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado concertado", 
+        "codigo": "28", 
+        "alumnado_i": 599
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado concertado", 
+        "codigo": "29", 
+        "alumnado_i": 1739
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado concertado", 
+        "codigo": "32", 
+        "alumnado_i": 19
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "1", 
+        "alumnado_i": 106
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "6", 
+        "alumnado_i": 705
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "7", 
+        "alumnado_i": 30
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "8", 
+        "alumnado_i": 39
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "9", 
+        "alumnado_i": 14
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "11", 
+        "alumnado_i": 62
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "15", 
+        "alumnado_i": 66
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "16", 
+        "alumnado_i": 2
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "17", 
+        "alumnado_i": 13146
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "18", 
+        "alumnado_i": 35
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "20", 
+        "alumnado_i": 83
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "22", 
+        "alumnado_i": 21
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "28", 
+        "alumnado_i": 92
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado concertado", 
+        "codigo": "1", 
+        "alumnado_i": 649
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado concertado", 
+        "codigo": "2", 
+        "alumnado_i": 186
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado concertado", 
+        "codigo": "4", 
+        "alumnado_i": 97
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado concertado", 
+        "codigo": "5", 
+        "alumnado_i": 373
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado concertado", 
+        "codigo": "6", 
+        "alumnado_i": 2364
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado concertado", 
+        "codigo": "7", 
+        "alumnado_i": 646
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado concertado", 
+        "codigo": "8", 
+        "alumnado_i": 1286
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado concertado", 
+        "codigo": "9", 
+        "alumnado_i": 196
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado concertado", 
+        "codigo": "11", 
+        "alumnado_i": 631
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado concertado", 
+        "codigo": "12", 
+        "alumnado_i": 627
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado concertado", 
+        "codigo": "13", 
+        "alumnado_i": 283
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado concertado", 
+        "codigo": "15", 
+        "alumnado_i": 398
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado concertado", 
+        "codigo": "16", 
+        "alumnado_i": 414
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado concertado", 
+        "codigo": "17", 
+        "alumnado_i": 41539
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado concertado", 
+        "codigo": "18", 
+        "alumnado_i": 256
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado concertado", 
+        "codigo": "19", 
+        "alumnado_i": 340
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado concertado", 
+        "codigo": "20", 
+        "alumnado_i": 622
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "17", 
+        "alumnado_i": 66902
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "18", 
+        "alumnado_i": 710
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "19", 
+        "alumnado_i": 1844
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "20", 
+        "alumnado_i": 4530
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "21", 
+        "alumnado_i": 1232
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "22", 
+        "alumnado_i": 390
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "23", 
+        "alumnado_i": 677
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "24", 
+        "alumnado_i": 500
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "25", 
+        "alumnado_i": 1580
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "26", 
+        "alumnado_i": 1168
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "27", 
+        "alumnado_i": 1604
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "28", 
+        "alumnado_i": 4388
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "29", 
+        "alumnado_i": 6412
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "30", 
+        "alumnado_i": 369
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "31", 
+        "alumnado_i": 363
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "32", 
+        "alumnado_i": 841
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "33", 
+        "alumnado_i": 1006
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "29", 
+        "alumnado_i": 262
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "1", 
+        "alumnado_i": 2079
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "2", 
+        "alumnado_i": 1844
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "3", 
+        "alumnado_i": 954
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "4", 
+        "alumnado_i": 1361
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "5", 
+        "alumnado_i": 4176
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "6", 
+        "alumnado_i": 8598
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "7", 
+        "alumnado_i": 2712
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "16", 
+        "alumnado_i": 4085
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "15", 
+        "alumnado_i": 3234
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "14", 
+        "alumnado_i": 980
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "13", 
+        "alumnado_i": 1794
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "12", 
+        "alumnado_i": 1540
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "11", 
+        "alumnado_i": 2892
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "10", 
+        "alumnado_i": 2064
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "9", 
+        "alumnado_i": 2378
+    }, 
+    {
+        "anyo": "2010", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "8", 
+        "alumnado_i": 2621
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado concertado", 
+        "codigo": "28", 
+        "alumnado_i": 594
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado concertado", 
+        "codigo": "29", 
+        "alumnado_i": 1766
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "1", 
+        "alumnado_i": 108
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "6", 
+        "alumnado_i": 618
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "7", 
+        "alumnado_i": 31
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "8", 
+        "alumnado_i": 49
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "9", 
+        "alumnado_i": 15
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "11", 
+        "alumnado_i": 64
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "12", 
+        "alumnado_i": 3
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "15", 
+        "alumnado_i": 65
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "17", 
+        "alumnado_i": 12514
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "18", 
+        "alumnado_i": 19
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "20", 
+        "alumnado_i": 61
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "22", 
+        "alumnado_i": 20
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "28", 
+        "alumnado_i": 107
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "29", 
+        "alumnado_i": 193
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado concertado", 
+        "codigo": "1", 
+        "alumnado_i": 674
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado concertado", 
+        "codigo": "2", 
+        "alumnado_i": 187
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado concertado", 
+        "codigo": "4", 
+        "alumnado_i": 108
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado concertado", 
+        "codigo": "5", 
+        "alumnado_i": 387
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado concertado", 
+        "codigo": "6", 
+        "alumnado_i": 2427
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado concertado", 
+        "codigo": "7", 
+        "alumnado_i": 657
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado concertado", 
+        "codigo": "8", 
+        "alumnado_i": 1267
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado concertado", 
+        "codigo": "9", 
+        "alumnado_i": 215
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado concertado", 
+        "codigo": "11", 
+        "alumnado_i": 628
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado concertado", 
+        "codigo": "12", 
+        "alumnado_i": 615
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado concertado", 
+        "codigo": "13", 
+        "alumnado_i": 295
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado concertado", 
+        "codigo": "15", 
+        "alumnado_i": 405
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado concertado", 
+        "codigo": "16", 
+        "alumnado_i": 450
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado concertado", 
+        "codigo": "17", 
+        "alumnado_i": 42090
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado concertado", 
+        "codigo": "18", 
+        "alumnado_i": 247
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado concertado", 
+        "codigo": "19", 
+        "alumnado_i": 325
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado concertado", 
+        "codigo": "20", 
+        "alumnado_i": 619
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "17", 
+        "alumnado_i": 69288
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "18", 
+        "alumnado_i": 721
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "19", 
+        "alumnado_i": 1889
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "20", 
+        "alumnado_i": 4476
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "21", 
+        "alumnado_i": 1207
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "22", 
+        "alumnado_i": 388
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "23", 
+        "alumnado_i": 703
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "24", 
+        "alumnado_i": 479
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "25", 
+        "alumnado_i": 1583
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "26", 
+        "alumnado_i": 1184
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "27", 
+        "alumnado_i": 1599
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "28", 
+        "alumnado_i": 4400
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "29", 
+        "alumnado_i": 6486
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "30", 
+        "alumnado_i": 348
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "31", 
+        "alumnado_i": 372
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "32", 
+        "alumnado_i": 831
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "33", 
+        "alumnado_i": 1030
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "32", 
+        "alumnado_i": 17
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "1", 
+        "alumnado_i": 2062
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "2", 
+        "alumnado_i": 1894
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "3", 
+        "alumnado_i": 971
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "4", 
+        "alumnado_i": 1400
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "5", 
+        "alumnado_i": 4172
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "6", 
+        "alumnado_i": 8980
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "7", 
+        "alumnado_i": 2892
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "16", 
+        "alumnado_i": 3931
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "15", 
+        "alumnado_i": 3321
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "14", 
+        "alumnado_i": 940
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "13", 
+        "alumnado_i": 1819
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "12", 
+        "alumnado_i": 1597
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "11", 
+        "alumnado_i": 2880
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "10", 
+        "alumnado_i": 2133
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "9", 
+        "alumnado_i": 2444
+    }, 
+    {
+        "anyo": "2011", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "8", 
+        "alumnado_i": 2682
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado concertado", 
+        "codigo": "28", 
+        "alumnado_i": 592
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado concertado", 
+        "codigo": "29", 
+        "alumnado_i": 1777
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "1", 
+        "alumnado_i": 106
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "6", 
+        "alumnado_i": 692
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "7", 
+        "alumnado_i": 69
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "8", 
+        "alumnado_i": 31
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "9", 
+        "alumnado_i": 5
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "11", 
+        "alumnado_i": 64
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "12", 
+        "alumnado_i": 8
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "15", 
+        "alumnado_i": 52
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "17", 
+        "alumnado_i": 12449
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "18", 
+        "alumnado_i": 10
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "20", 
+        "alumnado_i": 54
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "22", 
+        "alumnado_i": 19
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "28", 
+        "alumnado_i": 110
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "29", 
+        "alumnado_i": 310
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado concertado", 
+        "codigo": "1", 
+        "alumnado_i": 657
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado concertado", 
+        "codigo": "2", 
+        "alumnado_i": 177
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado concertado", 
+        "codigo": "4", 
+        "alumnado_i": 100
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado concertado", 
+        "codigo": "5", 
+        "alumnado_i": 403
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado concertado", 
+        "codigo": "6", 
+        "alumnado_i": 2315
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado concertado", 
+        "codigo": "7", 
+        "alumnado_i": 673
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado concertado", 
+        "codigo": "8", 
+        "alumnado_i": 1340
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado concertado", 
+        "codigo": "9", 
+        "alumnado_i": 231
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado concertado", 
+        "codigo": "11", 
+        "alumnado_i": 610
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado concertado", 
+        "codigo": "12", 
+        "alumnado_i": 599
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado concertado", 
+        "codigo": "13", 
+        "alumnado_i": 272
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado concertado", 
+        "codigo": "15", 
+        "alumnado_i": 397
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado concertado", 
+        "codigo": "16", 
+        "alumnado_i": 478
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado concertado", 
+        "codigo": "17", 
+        "alumnado_i": 42001
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado concertado", 
+        "codigo": "18", 
+        "alumnado_i": 207
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado concertado", 
+        "codigo": "19", 
+        "alumnado_i": 329
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado concertado", 
+        "codigo": "20", 
+        "alumnado_i": 631
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "17", 
+        "alumnado_i": 70940
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "18", 
+        "alumnado_i": 721
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "19", 
+        "alumnado_i": 1947
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "20", 
+        "alumnado_i": 4691
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "21", 
+        "alumnado_i": 1270
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "22", 
+        "alumnado_i": 383
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "23", 
+        "alumnado_i": 686
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "24", 
+        "alumnado_i": 486
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "25", 
+        "alumnado_i": 1568
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "26", 
+        "alumnado_i": 1167
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "27", 
+        "alumnado_i": 1555
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "28", 
+        "alumnado_i": 4366
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "29", 
+        "alumnado_i": 6519
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "30", 
+        "alumnado_i": 341
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "31", 
+        "alumnado_i": 332
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "32", 
+        "alumnado_i": 810
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "33", 
+        "alumnado_i": 1061
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "32", 
+        "alumnado_i": 16
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "1", 
+        "alumnado_i": 2140
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "2", 
+        "alumnado_i": 1884
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "3", 
+        "alumnado_i": 985
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "4", 
+        "alumnado_i": 1404
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "5", 
+        "alumnado_i": 4118
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "6", 
+        "alumnado_i": 8958
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "7", 
+        "alumnado_i": 2916
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "16", 
+        "alumnado_i": 4126
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "15", 
+        "alumnado_i": 3376
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "14", 
+        "alumnado_i": 923
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "13", 
+        "alumnado_i": 1846
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "12", 
+        "alumnado_i": 1621
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "11", 
+        "alumnado_i": 2929
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "10", 
+        "alumnado_i": 2114
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "9", 
+        "alumnado_i": 2446
+    }, 
+    {
+        "anyo": "2012", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "8", 
+        "alumnado_i": 2710
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado concertado", 
+        "codigo": "20", 
+        "alumnado_i": 617
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado concertado", 
+        "codigo": "28", 
+        "alumnado_i": 597
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado concertado", 
+        "codigo": "29", 
+        "alumnado_i": 1752
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "1", 
+        "alumnado_i": 96
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "6", 
+        "alumnado_i": 620
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "8", 
+        "alumnado_i": 27
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "9", 
+        "alumnado_i": 9
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "11", 
+        "alumnado_i": 40
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "12", 
+        "alumnado_i": 6
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "15", 
+        "alumnado_i": 271
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "17", 
+        "alumnado_i": 11372
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "18", 
+        "alumnado_i": 17
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "20", 
+        "alumnado_i": 29
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "22", 
+        "alumnado_i": 19
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "28", 
+        "alumnado_i": 95
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "29", 
+        "alumnado_i": 294
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado no concertado", 
+        "codigo": "32", 
+        "alumnado_i": 18
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "4", 
+        "alumnado_i": 53
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado concertado", 
+        "codigo": "1", 
+        "alumnado_i": 685
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado concertado", 
+        "codigo": "2", 
+        "alumnado_i": 167
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado concertado", 
+        "codigo": "4", 
+        "alumnado_i": 84
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado concertado", 
+        "codigo": "5", 
+        "alumnado_i": 366
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado concertado", 
+        "codigo": "6", 
+        "alumnado_i": 2432
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado concertado", 
+        "codigo": "7", 
+        "alumnado_i": 749
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado concertado", 
+        "codigo": "8", 
+        "alumnado_i": 1215
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado concertado", 
+        "codigo": "9", 
+        "alumnado_i": 246
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado concertado", 
+        "codigo": "11", 
+        "alumnado_i": 608
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado concertado", 
+        "codigo": "12", 
+        "alumnado_i": 576
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado concertado", 
+        "codigo": "13", 
+        "alumnado_i": 261
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado concertado", 
+        "codigo": "15", 
+        "alumnado_i": 194
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado concertado", 
+        "codigo": "16", 
+        "alumnado_i": 483
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado concertado", 
+        "codigo": "17", 
+        "alumnado_i": 41023
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado concertado", 
+        "codigo": "18", 
+        "alumnado_i": 164
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado concertado", 
+        "codigo": "19", 
+        "alumnado_i": 336
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "18", 
+        "alumnado_i": 708
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "19", 
+        "alumnado_i": 1861
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "20", 
+        "alumnado_i": 4701
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "21", 
+        "alumnado_i": 1302
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "22", 
+        "alumnado_i": 379
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "23", 
+        "alumnado_i": 667
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "24", 
+        "alumnado_i": 475
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "25", 
+        "alumnado_i": 1574
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "26", 
+        "alumnado_i": 1106
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "27", 
+        "alumnado_i": 1499
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "28", 
+        "alumnado_i": 4431
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "29", 
+        "alumnado_i": 6468
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "30", 
+        "alumnado_i": 328
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "31", 
+        "alumnado_i": 312
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "32", 
+        "alumnado_i": 799
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "33", 
+        "alumnado_i": 1085
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "Privado concertado", 
+        "codigo": "29", 
+        "alumnado_i": 41
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "1", 
+        "alumnado_i": 2111
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "2", 
+        "alumnado_i": 1796
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "3", 
+        "alumnado_i": 980
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "4", 
+        "alumnado_i": 1403
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "5", 
+        "alumnado_i": 4071
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "6", 
+        "alumnado_i": 9113
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "7", 
+        "alumnado_i": 2887
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "8", 
+        "alumnado_i": 2564
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "17", 
+        "alumnado_i": 71652
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "16", 
+        "alumnado_i": 4105
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "15", 
+        "alumnado_i": 3364
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "14", 
+        "alumnado_i": 883
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "13", 
+        "alumnado_i": 1770
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "12", 
+        "alumnado_i": 1667
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "11", 
+        "alumnado_i": 2928
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "10", 
+        "alumnado_i": 2079
+    }, 
+    {
+        "anyo": "2013", 
+        "titularidad": "P\u00fablica", 
+        "codigo": "9", 
+        "alumnado_i": 2416
+    }
+]
