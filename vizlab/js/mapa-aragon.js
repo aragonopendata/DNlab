@@ -56,14 +56,37 @@
 	d3.json("json/colegios.json", function(error, colegios) {
 	    var g = svg.append("g").attr("class", "colegios");
 
+	    /*
+	    // Ordenar por código dentro de provincia
+	    var maxCodigoProv = 0;
+	    colegios = colegios.sort(function (a, b) {
+		a.codigoProv = parseInt(a.key.substr(2));
+		b.codigoProv = parseInt(b.key.substr(2));
+		maxCodigoProv = Math.max(
+		    maxCodigoProv, Math.max(a.codigoProv, b.codigoProv)
+		);
+		return a.codigoProv - b.codigoProv;
+	    });
+	    */
+
 	    g.selectAll("circle")
 		.data(colegios)
 		.enter()
 		.append("circle").attr({
 		    "transform": function (d) { return "translate(" + projection([d["lng"], d["lat"]]) + ")"; },
 		    "r": 2,
+		    //"opacity": 0,
 		})
-		.on("click", function (d) { console.log(d); });
+		.on("click", function (d) { console.log(d); })
+	    /*
+		.transition()
+		.delay(function (d) {
+		    return d.codigoProv / maxCodigoProv * 100000;
+		})
+		.duration(1000)
+		.attr("opacity", 1)
+	    */
+	    ;
 	});
     });
 
